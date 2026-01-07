@@ -9,7 +9,6 @@ import {
   likeProductToggle,
   getLikedProduct,
 } from "../controllers/productController.mjs";
-import wrapAsync from "../utils/unused/wrapAsync.mjs";
 import { upload } from "../middlewares/multer.mjs";
 import { productUploadLimit } from "../utils/productUploadLimitCalculate.mjs";
 import authGuard from "../utils/authGuard.mjs";
@@ -26,7 +25,7 @@ router.post(
     { name: "TitleImg", maxCount: 1 },
     { name: "imgs", maxCount: 5 },
   ]),
-  wrapAsync(addProduct)
+  addProduct
 );
 
 router.delete("/:category/:sku", deleteProduct);
@@ -39,8 +38,6 @@ router.patch(
   ]),
   updateProduct
 );
-
-
 
 router.post ("/favorites/:category/:sku", authGuard, likeProductToggle);
 

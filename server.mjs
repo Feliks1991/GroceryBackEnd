@@ -3,7 +3,7 @@ import morgan from "morgan";
 import productsRoutes from "./routes/productsRoutes.mjs";
 import commentsRouter from "./routes/commentsRouter.mjs";
 import usersRoutes from "./routes/usersRoutes.mjs";
-import cartRoutes from "./routes/cartRoutes.mjs"
+import cartRoutes from "./routes/cartRoutes.mjs";
 import errorHandler from "./middlewares/errorHandler.mjs";
 import __dirname from "./rootDir.mjs";
 import path from "path";
@@ -13,17 +13,20 @@ import cors from "cors";
 
 const app = express();
 app.set("strict routing", true);
+
 app.use(
   cors({
-    origin: "http://localhost:5173",
+    origin: ["http://localhost:5173", "https://groceryshoppetproject.netlify.app"],
     credentials: true,
+    methods: ["GET", "POST", "PATCH", "DELETE", "OPTIONS"],
+    allowedHeaders: ["Content-Type", "Authorization"],
   })
 );
 
 app.use(cookieParser());
 dotenv.config({ path: "./.env" });
 
-const PORT = process.env.PORT || 3000;
+const PORT = process.env.PORT || 5000;
 
 app.use(morgan("dev"));
 app.use(express.json());

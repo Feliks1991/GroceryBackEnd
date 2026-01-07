@@ -2,3 +2,4 @@ node_modules
 utils/unused
 db/products/test
 .env
+ecosystem.config.cjs
