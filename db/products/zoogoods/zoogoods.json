@@ -1,0 +1,422 @@
+[
+  {
+    "SKU": "596761",
+    "category": "zoogoods",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Корм для собак 'Royal Canin' 1.5 кг",
+    "price": {
+      "regular": 1200,
+      "discountCard": 1080
+    },
+    "brand": "Royal Canin",
+    "origin": "Франция",
+    "packing": {
+      "value": 1500,
+      "unit": "г"
+    },
+    "description": "Полноценный корм для собак средних пород, обогащенный витаминами и минералами."
+  },
+  {
+    "SKU": "305847",
+    "category": "zoogoods",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Корм для кошек 'Whiskas' 2 кг",
+    "price": {
+      "regular": 900,
+      "discountCard": 900
+    },
+    "brand": "Whiskas",
+    "origin": "Россия",
+    "packing": {
+      "value": 2000,
+      "unit": "г"
+    },
+    "description": "Вкусный и питательный корм для взрослых кошек, с курицей и овощами."
+  },
+  {
+    "SKU": "242619",
+    "category": "zoogoods",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Игрушка для собак 'PetSafe' мячик с пищалкой",
+    "price": {
+      "regular": 500,
+      "discountCard": 425
+    },
+    "brand": "PetSafe",
+    "origin": "США",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Интерактивная игрушка для собак, помогает в обучении и поддерживает активность питомца."
+  },
+  {
+    "SKU": "357286",
+    "category": "zoogoods",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Наполнитель для кошек 'Cat's Best' 5 л",
+    "price": {
+      "regular": 450,
+      "discountCard": 450
+    },
+    "brand": "Cat's Best",
+    "origin": "Германия",
+    "packing": {
+      "value": 5,
+      "unit": "л"
+    },
+    "description": "Экологически чистый наполнитель для кошачьих туалетов, эффективно абсорбирует запахи."
+  },
+  {
+    "SKU": "401017",
+    "category": "zoogoods",
+    "promo": {
+      "discount": true,
+      "percentage": 25
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Шампунь для собак 'Nature's Miracle' 500 мл",
+    "price": {
+      "regular": 600,
+      "discountCard": 450
+    },
+    "brand": "Nature's Miracle",
+    "origin": "США",
+    "packing": {
+      "value": 500,
+      "unit": "мл"
+    },
+    "description": "Шампунь для собак с экстрактами растений, предотвращает появление зуда и раздражений."
+  },
+  {
+    "SKU": "631544",
+    "category": "zoogoods",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Кровать для собак 'PetFusion' размер M",
+    "price": {
+      "regular": 2200,
+      "discountCard": 2200
+    },
+    "brand": "PetFusion",
+    "origin": "США",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Кровать с ортопедическим матрасом для собак среднего размера, предотвращает заболевания суставов."
+  },
+  {
+    "SKU": "144014",
+    "category": "zoogoods",
+    "promo": {
+      "discount": true,
+      "percentage": 5
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Домик для кошек 'Trixie' с туннелем",
+    "price": {
+      "regular": 850,
+      "discountCard": 807.5
+    },
+    "brand": "Trixie",
+    "origin": "Германия",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Уютный домик с туннелем для кошек, легко моется, идеально подходит для игр и сна."
+  },
+  {
+    "SKU": "483735",
+    "category": "zoogoods",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Поводок для собак 'PetSafe' 1.5 м",
+    "price": {
+      "regular": 350,
+      "discountCard": 350
+    },
+    "brand": "PetSafe",
+    "origin": "США",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Качественный поводок для собак с мягкой ручкой, для прогулок на свежем воздухе."
+  },
+  {
+    "SKU": "596040",
+    "category": "zoogoods",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Миски для собак 'Trixie' 2 шт",
+    "price": {
+      "regular": 600,
+      "discountCard": 480
+    },
+    "brand": "Trixie",
+    "origin": "Германия",
+    "packing": {
+      "value": 2,
+      "unit": "шт."
+    },
+    "description": "Два качественных металлических миски для собак с нескользящим основанием."
+  },
+  {
+    "SKU": "628071",
+    "category": "zoogoods",
+    "promo": {
+      "discount": true,
+      "percentage": 30
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Шампунь для кошек 'Sanosan' 250 мл",
+    "price": {
+      "regular": 400,
+      "discountCard": 280
+    },
+    "brand": "Sanosan",
+    "origin": "Германия",
+    "packing": {
+      "value": 250,
+      "unit": "мл"
+    },
+    "description": "Шампунь для кошек с экстрактами ромашки, для чувствительной кожи и шерсти."
+  },
+  {
+    "SKU": "382541",
+    "category": "zoogoods",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Клетка для кроликов 'Ferplast' 80x50x50 см",
+    "price": {
+      "regular": 3200,
+      "discountCard": 2720
+    },
+    "brand": "Ferplast",
+    "origin": "Италия",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Клетка для кроликов с удобным полом и кормушкой, идеальна для домашних питомцев."
+  },
+  {
+    "SKU": "953185",
+    "category": "zoogoods",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Колесо для хомяков 'Savic' 20 см",
+    "price": {
+      "regular": 450,
+      "discountCard": 450
+    },
+    "brand": "Savic",
+    "origin": "Бельгия",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Колесо для хомяков с бесшумным механизмом, помогает поддерживать активность питомца."
+  },
+  {
+    "SKU": "342773",
+    "category": "zoogoods",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Кошачье дерево 'Trixie' для игр и сна",
+    "price": {
+      "regular": 3500,
+      "discountCard": 3500
+    },
+    "brand": "Trixie",
+    "origin": "Германия",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Кошачье дерево с мягкими поверхностями и полками, идеально подходит для активных игр и отдыха кошек."
+  },
+  {
+    "SKU": "815199",
+    "category": "zoogoods",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Ошейник для собак 'Ferplast' размер L",
+    "price": {
+      "regular": 700,
+      "discountCard": 630
+    },
+    "brand": "Ferplast",
+    "origin": "Италия",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Мягкий и прочный ошейник для собак крупных пород, регулируемый размер."
+  },
+  {
+    "SKU": "821676",
+    "category": "zoogoods",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Клетка для попугаев 'Savic' 60x40x40 см",
+    "price": {
+      "regular": 1500,
+      "discountCard": 1500
+    },
+    "brand": "Savic",
+    "origin": "Бельгия",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Просторная клетка для попугаев, с пластиковым поддоном и кормушкой, легко чистится."
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "SKU": "565123",
+    "category": "meat",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Куриные бедра, 1 кг",
+    "price": {
+      "regular": 250,
+      "discountCard": 225
+    },
+    "brand": "Петродень",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г"
+    },
+    "description": "Свежие куриные бедра, идеально подходят для запеканок, жарки или запеканок."
+  },
+  {
+    "SKU": "158040",
+    "category": "meat",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Говядина, 1 кг",
+    "price": {
+      "regular": 500,
+      "discountCard": 500
+    },
+    "brand": "Мясной Дом",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г"
+    },
+    "description": "Свежая говядина высокого качества, идеальна для стейков и запеканок."
+  },
+  {
+    "SKU": "408285",
+    "category": "meat",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Свинина, 1 кг",
+    "price": {
+      "regular": 450,
+      "discountCard": 382.5
+    },
+    "brand": "Фермерский выбор",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г"
+    },
+    "description": "Свежая свинина, идеально подходит для жарки, тушения и запеканок."
+  },
+  {
+    "SKU": "363080",
+    "category": "meat",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Куриные грудки, 1 кг",
+    "price": {
+      "regular": 350,
+      "discountCard": 350
+    },
+    "brand": "Петродень",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г"
+    },
+    "description": "Куриные грудки, идеально подходят для запеканок, салатов или как основное блюдо."
+  },
+  {
+    "SKU": "239769",
+    "category": "meat",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Утка, 1 кг",
+    "price": {
+      "regular": 650,
+      "discountCard": 585
+    },
+    "brand": "Домашний вкус",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г"
+    },
+    "description": "Свежая утка, идеально подходит для запеканок, запеканок или тушения."
+  },
+  {
+    "SKU": "269396",
+    "category": "meat",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Котлеты говяжьи, 1 кг",
+    "price": {
+      "regular": 350,
+      "discountCard": 280
+    },
+    "brand": "Мясной дом",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г"
+    },
+    "description": "Вкусные говяжьи котлеты, приготовленные по традиционному рецепту, идеально подходят для обеда или ужина."
+  },
+  {
+    "SKU": "342544",
+    "category": "meat",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Колбаса варёная, 1 кг",
+    "price": {
+      "regular": 400,
+      "discountCard": 340
+    },
+    "brand": "Гастрономия",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г"
+    },
+    "description": "Варёная колбаса, нежная и сочная, идеальна для бутербродов или как добавка в салаты."
+  },
+  {
+    "SKU": "468407",
+    "category": "meat",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Пельмени с говядиной, 800 г",
+    "price": {
+      "regular": 200,
+      "discountCard": 180
+    },
+    "brand": "Сибирский Дом",
+    "origin": "Россия",
+    "packing": {
+      "value": 800,
+      "unit": "г"
+    },
+    "description": "Пельмени с сочной говядиной, отличное решение для быстрого ужина."
+  },
+  {
+    "SKU": "737968",
+    "category": "meat",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Фарш свиной, 1 кг",
+    "price": {
+      "regular": 300,
+      "discountCard": 300
+    },
+    "brand": "Мясной уголок",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г"
+    },
+    "description": "Свежий свиной фарш, отличный выбор для приготовления пельменей, котлет и других блюд."
+  },
+  {
+    "SKU": "736998",
+    "category": "meat",
+    "promo": {
+      "discount": true,
+      "percentage": 25
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Говяжий стейк, 500 г",
+    "price": {
+      "regular": 800,
+      "discountCard": 600
+    },
+    "brand": "Стейк-Гриль",
+    "origin": "США",
+    "packing": {
+      "value": 500,
+      "unit": "г"
+    },
+    "description": "Великолепный стейк из мраморной говядины, идеален для жарки на гриле."
+  },
+  {
+    "SKU": "437263",
+    "category": "meat",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Куриные крылышки, 1 кг",
+    "price": {
+      "regular": 220,
+      "discountCard": 198
+    },
+    "brand": "Фермерские продукты",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г"
+    },
+    "description": "Свежие куриные крылышки, идеально подходят для жарки и запеканок."
+  },
+  {
+    "SKU": "523780",
+    "category": "meat",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Филе индейки, 600 г",
+    "price": {
+      "regular": 450,
+      "discountCard": 450
+    },
+    "brand": "Здоровое мясо",
+    "origin": "Россия",
+    "packing": {
+      "value": 600,
+      "unit": "г"
+    },
+    "description": "Нежное филе индейки, идеальный выбор для здорового питания."
+  },
+  {
+    "SKU": "599710",
+    "category": "meat",
+    "promo": {
+      "discount": true,
+      "percentage": 30
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Бекон, 400 г",
+    "price": {
+      "regular": 350,
+      "discountCard": 245
+    },
+    "brand": "Традиции вкуса",
+    "origin": "Канада",
+    "packing": {
+      "value": 400,
+      "unit": "г"
+    },
+    "description": "Ароматный и хрустящий бекон, идеально подходит для завтраков или как добавка к салатам."
+  },
+  {
+    "SKU": "103699",
+    "category": "meat",
+    "promo": {
+      "discount": true,
+      "percentage": 25
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Говяжьи ребра, 1 кг",
+    "price": {
+      "regular": 850,
+      "discountCard": 637.5
+    },
+    "brand": "Фермерская ферма",
+    "origin": "США",
+    "packing": {
+      "value": 1000,
+      "unit": "г"
+    },
+    "description": "Сочные говяжьи ребра с отличным вкусом, идеально подходят для запеканок и гриля."
+  },
+  {
+    "SKU": "661291",
+    "category": "meat",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Сосиски куриные, 500 г",
+    "price": {
+      "regular": 220,
+      "discountCard": 220
+    },
+    "brand": "Куриное братство",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г"
+    },
+    "description": "Куриные сосиски, без лишнего жира, хороши для лёгкого ужина или перекуса."
+  }
+]

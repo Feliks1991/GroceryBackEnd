@@ -1,0 +1,422 @@
+[
+  {
+    "SKU": "622445",
+    "category": "confectionery",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Шоколад 'Аленка' молочный, 100 г",
+    "price": {
+      "regular": 85,
+      "discountCard": 76.5
+    },
+    "brand": "Красный Октябрь",
+    "origin": "Россия",
+    "packing": {
+      "value": 100,
+      "unit": "г"
+    },
+    "description": "Молочный шоколад с нежным вкусом, произведенный из высококачественного какао-масла и молока."
+  },
+  {
+    "SKU": "184404",
+    "category": "confectionery",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Конфеты 'Мишка косолапый', 200 г",
+    "price": {
+      "regular": 140,
+      "discountCard": 119
+    },
+    "brand": "Красный Октябрь",
+    "origin": "Россия",
+    "packing": {
+      "value": 200,
+      "unit": "г"
+    },
+    "description": "Тягучие карамельные конфеты с молочным вкусом в мягкой обертке."
+  },
+  {
+    "SKU": "795238",
+    "category": "confectionery",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Печенье 'Юбилейное' ванильное, 500 г",
+    "price": {
+      "regular": 110,
+      "discountCard": 110
+    },
+    "brand": "Яшкино",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г"
+    },
+    "description": "Ванильное печенье с нежным вкусом, идеальное для чая."
+  },
+  {
+    "SKU": "672729",
+    "category": "confectionery",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Шоколад 'Нестле' темный, 90 г",
+    "price": {
+      "regular": 95,
+      "discountCard": 76
+    },
+    "brand": "Nestlé",
+    "origin": "Швейцария",
+    "packing": {
+      "value": 90,
+      "unit": "г"
+    },
+    "description": "Темный шоколад с высоким содержанием какао, идеально подходит для истинных ценителей."
+  },
+  {
+    "SKU": "299622",
+    "category": "confectionery",
+    "promo": {
+      "discount": true,
+      "percentage": 5
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Карамель 'Рыжик', 300 г",
+    "price": {
+      "regular": 120,
+      "discountCard": 114
+    },
+    "brand": "Конфаэль",
+    "origin": "Россия",
+    "packing": {
+      "value": 300,
+      "unit": "г"
+    },
+    "description": "Карамель с насыщенным вкусом, идеально подходит для сладкоежек."
+  },
+  {
+    "SKU": "670711",
+    "category": "confectionery",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Маршмеллоу 'Бон Парм' клубничное, 250 г",
+    "price": {
+      "regular": 105,
+      "discountCard": 105
+    },
+    "brand": "Bon Parm",
+    "origin": "Россия",
+    "packing": {
+      "value": 250,
+      "unit": "г"
+    },
+    "description": "Мягкие и воздушные маршмеллоу с вкусом клубники, идеально для десертов и чая."
+  },
+  {
+    "SKU": "789972",
+    "category": "confectionery",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Пирожные 'Картал', 400 г",
+    "price": {
+      "regular": 180,
+      "discountCard": 153
+    },
+    "brand": "Яшкино",
+    "origin": "Россия",
+    "packing": {
+      "value": 400,
+      "unit": "г"
+    },
+    "description": "Классические пирожные с нежным кремом внутри и хрустящей корочкой."
+  },
+  {
+    "SKU": "196794",
+    "category": "confectionery",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Леденцы 'Веселый леденец', 150 г",
+    "price": {
+      "regular": 70,
+      "discountCard": 70
+    },
+    "brand": "Русский Леденец",
+    "origin": "Россия",
+    "packing": {
+      "value": 150,
+      "unit": "г"
+    },
+    "description": "Яркие и вкусные леденцы с фруктовыми вкусами для детей и взрослых."
+  },
+  {
+    "SKU": "458479",
+    "category": "confectionery",
+    "promo": {
+      "discount": true,
+      "percentage": 25
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Конфеты 'Рафаэлло' 300 г",
+    "price": {
+      "regular": 520,
+      "discountCard": 390
+    },
+    "brand": "Ferrero",
+    "origin": "Италия",
+    "packing": {
+      "value": 300,
+      "unit": "г"
+    },
+    "description": "Нежные конфеты с кокосовой оболочкой и орехом внутри."
+  },
+  {
+    "SKU": "243445",
+    "category": "confectionery",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Жевательные мармеладки 'Мишки Гамми', 300 г",
+    "price": {
+      "regular": 150,
+      "discountCard": 150
+    },
+    "brand": "Haribo",
+    "origin": "Германия",
+    "packing": {
+      "value": 300,
+      "unit": "г"
+    },
+    "description": "Жевательные мармеладки в виде мишек с яркими фруктовыми вкусами."
+  },
+  {
+    "SKU": "784000",
+    "category": "confectionery",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Печенье 'Юбилейное' 400 г",
+    "price": {
+      "regular": 140,
+      "discountCard": 126
+    },
+    "brand": "Хлебный дом",
+    "origin": "Россия",
+    "packing": {
+      "value": 400,
+      "unit": "г"
+    },
+    "description": "Классическое печенье с хрустящей текстурой и легким ванильным вкусом."
+  },
+  {
+    "SKU": "724070",
+    "category": "confectionery",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Конфеты 'Трюфельные' 250 г",
+    "price": {
+      "regular": 350,
+      "discountCard": 280
+    },
+    "brand": "Кондитерская фабрика 'Бабаева'",
+    "origin": "Россия",
+    "packing": {
+      "value": 250,
+      "unit": "г"
+    },
+    "description": "Нежнейшие трюфельные конфеты с насыщенным шоколадным вкусом."
+  },
+  {
+    "SKU": "808636",
+    "category": "confectionery",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Шоколад 'Алёнка' 100 г",
+    "price": {
+      "regular": 75,
+      "discountCard": 75
+    },
+    "brand": "Красный Октябрь",
+    "origin": "Россия",
+    "packing": {
+      "value": 100,
+      "unit": "г"
+    },
+    "description": "Молочный шоколад с мягким вкусом, изготовленный по традиционным рецептам."
+  },
+  {
+    "SKU": "972250",
+    "category": "confectionery",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Мармелад 'Вкусняшка' апельсиновый, 250 г",
+    "price": {
+      "regular": 85,
+      "discountCard": 85
+    },
+    "brand": "Вкусняшка",
+    "origin": "Россия",
+    "packing": {
+      "value": 250,
+      "unit": "г"
+    },
+    "description": "Мармелад с насыщенным апельсиновым вкусом и натуральными ингредиентами."
+  },
+  {
+    "SKU": "339814",
+    "category": "confectionery",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Шоколад 'Бабаевский' темный, 90 г",
+    "price": {
+      "regular": 120,
+      "discountCard": 108
+    },
+    "brand": "Красный Октябрь",
+    "origin": "Россия",
+    "packing": {
+      "value": 90,
+      "unit": "г"
+    },
+    "description": "Темный шоколад с насыщенным вкусом, идеально сочетается с чаем или кофе."
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "SKU": "365655",
+    "category": "drinks",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Сок яблочный 1 л",
+    "price": {
+      "regular": 100,
+      "discountCard": 100
+    },
+    "brand": "Добрый",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "мл."
+    },
+    "description": "Сок яблочный, без добавления сахара и консервантов."
+  },
+  {
+    "SKU": "257878",
+    "category": "drinks",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Газированная вода 1.5 л",
+    "price": {
+      "regular": 50,
+      "discountCard": 45
+    },
+    "brand": "Свежесть",
+    "origin": "Россия",
+    "packing": {
+      "value": 1500,
+      "unit": "мл."
+    },
+    "description": "Минеральная газированная вода с добавлением природных минералов."
+  },
+  {
+    "SKU": "105648",
+    "category": "drinks",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Морс клюквенный 500 мл",
+    "price": {
+      "regular": 90,
+      "discountCard": 90
+    },
+    "brand": "Русский напиток",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "мл."
+    },
+    "description": "Клюквенный морс, натуральный, без консервантов и добавок."
+  },
+  {
+    "SKU": "413188",
+    "category": "drinks",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Лимонад апельсиновый 1 л",
+    "price": {
+      "regular": 120,
+      "discountCard": 102
+    },
+    "brand": "Апельсиновый рай",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "мл."
+    },
+    "description": "Освежающий апельсиновый лимонад с натуральным вкусом."
+  },
+  {
+    "SKU": "725412",
+    "category": "drinks",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Коктейль фруктовый 250 мл",
+    "price": {
+      "regular": 120,
+      "discountCard": 120
+    },
+    "brand": "Фруктис",
+    "origin": "Россия",
+    "packing": {
+      "value": 250,
+      "unit": "мл."
+    },
+    "description": "Освежающий фруктовый коктейль, идеально сочетающий вкус апельсина, манго и яблока."
+  },
+  {
+    "SKU": "551763",
+    "category": "drinks",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Молочный коктейль ванильный 500 мл",
+    "price": {
+      "regular": 110,
+      "discountCard": 88
+    },
+    "brand": "Милка",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "мл."
+    },
+    "description": "Нежный молочный коктейль с натуральным ванильным вкусом."
+  },
+  {
+    "SKU": "416100",
+    "category": "drinks",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Сок апельсиновый 1 л",
+    "price": {
+      "regular": 80,
+      "discountCard": 80
+    },
+    "brand": "Чистая линия",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "мл."
+    },
+    "description": "Свежевыжатый сок из натуральных апельсинов, без добавления сахара и консервантов."
+  },
+  {
+    "SKU": "484947",
+    "category": "drinks",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Сок ананасовый 'Tropico' 1 л",
+    "price": {
+      "regular": 150,
+      "discountCard": 130
+    },
+    "brand": "Tropico",
+    "origin": "Таиланд",
+    "packing": {
+      "value": 1000,
+      "unit": "мл"
+    },
+    "description": "Освежающий ананасовый сок с натуральным вкусом. Отличный напиток для летних дней."
+  },
+  {
+    "SKU": "675922",
+    "category": "drinks",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Сок гранатовый 0.5 л",
+    "price": {
+      "regular": 95,
+      "discountCard": 85.5
+    },
+    "brand": "Соково",
+    "origin": "Турция",
+    "packing": {
+      "value": 500,
+      "unit": "мл."
+    },
+    "description": "Натуральный гранатовый сок с богатым и насыщенным вкусом."
+  },
+  {
+    "SKU": "383251",
+    "category": "drinks",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Лимонад лимонный 1 л",
+    "price": {
+      "regular": 85,
+      "discountCard": 85
+    },
+    "brand": "Лимонадный завод",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "мл."
+    },
+    "description": "Освежающий лимонный лимонад с натуральным вкусом и ароматом."
+  },
+  {
+    "SKU": "446779",
+    "category": "drinks",
+    "promo": {
+      "discount": true,
+      "percentage": 25
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Минеральная вода Боржоми 1 л",
+    "price": {
+      "regular": 150,
+      "discountCard": 112.5
+    },
+    "brand": "Боржоми",
+    "origin": "Грузия",
+    "packing": {
+      "value": 1000,
+      "unit": "мл."
+    },
+    "description": "Природная минеральная вода с уникальными лечебными свойствами."
+  },
+  {
+    "SKU": "143306",
+    "category": "drinks",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Яблочный сок 1 л",
+    "price": {
+      "regular": 90,
+      "discountCard": 90
+    },
+    "brand": "Сады Придонья",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "мл."
+    },
+    "description": "Свежевыжатый сок из натуральных яблок без добавления сахара."
+  },
+  {
+    "SKU": "345924",
+    "category": "drinks",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Квас русский 1 л",
+    "price": {
+      "regular": 70,
+      "discountCard": 63
+    },
+    "brand": "Русский напиток",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "мл."
+    },
+    "description": "Натуральный квас с уникальным вкусом, освежает в жаркую погоду."
+  },
+  {
+    "SKU": "133907",
+    "category": "drinks",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Энергетический напиток 250 мл",
+    "price": {
+      "regular": 40,
+      "discountCard": 40
+    },
+    "brand": "Red Bull",
+    "origin": "Австрия",
+    "packing": {
+      "value": 250,
+      "unit": "мл."
+    },
+    "description": "Популярный энергетический напиток, дает энергию и бодрость."
+  },
+  {
+    "SKU": "169803",
+    "category": "drinks",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Компот из вишни 1 л",
+    "price": {
+      "regular": 95,
+      "discountCard": 95
+    },
+    "brand": "Домашний",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "мл."
+    },
+    "description": "Натуральный компот из свежей вишни, без добавления сахара."
+  }
+]

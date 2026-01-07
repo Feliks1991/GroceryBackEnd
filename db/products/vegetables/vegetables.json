@@ -1,0 +1,422 @@
+[
+  {
+    "SKU": "653392",
+    "category": "vegetables",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Картофель свежий 1 кг",
+    "price": {
+      "regular": 55,
+      "discountCard": 46.75
+    },
+    "brand": "Огородник",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г."
+    },
+    "description": "Свежий картофель для варки, жарки и запеканок."
+  },
+  {
+    "SKU": "988908",
+    "category": "vegetables",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Морковь свежая 500 г",
+    "price": {
+      "regular": 38,
+      "discountCard": 38
+    },
+    "brand": "Зеленая долина",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г."
+    },
+    "description": "Свежая морковь для приготовления салатов, гарниров и супов."
+  },
+  {
+    "SKU": "407754",
+    "category": "vegetables",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Петрушка свежая пучок",
+    "price": {
+      "regular": 25,
+      "discountCard": 20
+    },
+    "brand": "Природа",
+    "origin": "Россия",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Свежий пучок петрушки для добавления в блюда."
+  },
+  {
+    "SKU": "805695",
+    "category": "vegetables",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Помидоры свежие 1 кг",
+    "price": {
+      "regular": 120,
+      "discountCard": 120
+    },
+    "brand": "Теплица",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г."
+    },
+    "description": "Сочные и спелые помидоры для салатов и других блюд."
+  },
+  {
+    "SKU": "128437",
+    "category": "vegetables",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Огурцы свежие 500 г",
+    "price": {
+      "regular": 70,
+      "discountCard": 70
+    },
+    "brand": "Дачный вкус",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г."
+    },
+    "description": "Сочные и хрустящие огурцы, идеально подходят для салатов."
+  },
+  {
+    "SKU": "796471",
+    "category": "vegetables",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Цветная капуста свежая 500 г",
+    "price": {
+      "regular": 90,
+      "discountCard": 81
+    },
+    "brand": "Зеленая долина",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г."
+    },
+    "description": "Свежая цветная капуста, подходит для варки, запеканок и салатов."
+  },
+  {
+    "SKU": "220679",
+    "category": "vegetables",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Брокколи свежие 400 г",
+    "price": {
+      "regular": 120,
+      "discountCard": 120
+    },
+    "brand": "Экокультура",
+    "origin": "Россия",
+    "packing": {
+      "value": 400,
+      "unit": "г."
+    },
+    "description": "Свежий брокколи, идеально подходит для супов, гарниров и салатов."
+  },
+  {
+    "SKU": "413899",
+    "category": "vegetables",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Лук репчатый 1 кг",
+    "price": {
+      "regular": 55,
+      "discountCard": 55
+    },
+    "brand": "Лукинский",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г."
+    },
+    "description": "Свежий репчатый лук для супов, гарниров и салатов."
+  },
+  {
+    "SKU": "681680",
+    "category": "vegetables",
+    "promo": {
+      "discount": true,
+      "percentage": 5
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Перец болгарский 500 г",
+    "price": {
+      "regular": 150,
+      "discountCard": 142.5
+    },
+    "brand": "Фруктоцентр",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г."
+    },
+    "description": "Сочные болгарские перцы для салатов и гарниров."
+  },
+  {
+    "SKU": "183486",
+    "category": "vegetables",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Томаты черри 300 г",
+    "price": {
+      "regular": 80,
+      "discountCard": 72
+    },
+    "brand": "Теплица",
+    "origin": "Россия",
+    "packing": {
+      "value": 300,
+      "unit": "г."
+    },
+    "description": "Свежие томаты черри для салатов и закусок."
+  },
+  {
+    "SKU": "461330",
+    "category": "vegetables",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Шпинат свежий 300 г",
+    "price": {
+      "regular": 85,
+      "discountCard": 85
+    },
+    "brand": "Зеленая долина",
+    "origin": "Россия",
+    "packing": {
+      "value": 300,
+      "unit": "г."
+    },
+    "description": "Свежий шпинат, подходящий для салатов и супов."
+  },
+  {
+    "SKU": "512223",
+    "category": "vegetables",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Зеленый горошек 400 г",
+    "price": {
+      "regular": 60,
+      "discountCard": 60
+    },
+    "brand": "Зеленый уголок",
+    "origin": "Россия",
+    "packing": {
+      "value": 400,
+      "unit": "г."
+    },
+    "description": "Замороженный зеленый горошек для супов, гарниров и салатов."
+  },
+  {
+    "SKU": "164270",
+    "category": "vegetables",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Кабачки свежие 500 г",
+    "price": {
+      "regular": 70,
+      "discountCard": 59.5
+    },
+    "brand": "Летний урожай",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г."
+    },
+    "description": "Свежие кабачки для запеканок и других блюд."
+  },
+  {
+    "SKU": "927583",
+    "category": "vegetables",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Капуста белокочанная 1 кг",
+    "price": {
+      "regular": 45,
+      "discountCard": 45
+    },
+    "brand": "Фермер",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г."
+    },
+    "description": "Белокочанная капуста, идеально для салатов, супов и борщей."
+  },
+  {
+    "SKU": "762232",
+    "category": "vegetables",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Чеснок 200 г",
+    "price": {
+      "regular": 50,
+      "discountCard": 45
+    },
+    "brand": "Агроцентр",
+    "origin": "Россия",
+    "packing": {
+      "value": 200,
+      "unit": "г."
+    },
+    "description": "Свежий чеснок для приготовления блюд."
+  }
+]

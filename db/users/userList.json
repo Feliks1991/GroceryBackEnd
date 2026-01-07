@@ -1,0 +1,106 @@
+{
+  "cd38035eca33": {
+    "id": "cd38035eca33",
+    "name": "John",
+    "lastname": "Snow",
+    "sex": "man",
+    "birthday": "01.01.2002",
+    "password": "$2b$10$kXqTTfhAJJ0PGmhcmy5XhO2m.hqJmFYI/BD6mhOLtLC/3Ld3wTDU6",
+    "country": "Belarus",
+    "city": "Minsk",
+    "phone": "+375293363434",
+    "email": "john@email.com",
+    "systemData": {
+      "role": "user",
+      "refreshJti": [],
+      "createdAt": 1756325774035,
+      "status": "active"
+    }
+  },
+  "6fc104a73dce": {
+    "id": "6fc104a73dce",
+    "name": "Dean",
+    "lastname": "Winchester",
+    "sex": "man",
+    "birthday": "02.02.2000",
+    "password": "$2b$10$bMz.pTBwUaAFNvl3ZvrNa.kavLrf2TyPqSwW3x9ajY6suETL9N8B6",
+    "country": "Washington",
+    "city": "USA",
+    "phone": "+375291844364",
+    "email": "dean@email.com",
+    "systemData": {
+      "role": "user",
+      "refreshJti": [],
+      "createdAt": 1756336216924,
+      "status": "active"
+    }
+  },
+  "c9a93975cb9b": {
+    "id": "c9a93975cb9b",
+    "name": "Sam",
+    "lastname": "Winchester",
+    "sex": "man",
+    "birthday": "02.02.2000",
+    "password": "$2b$10$snYF1jxbaPXXIaVM9nYqiudvO8PHouOmQIHC1UgC.adUFle5Kb8.W",
+    "country": "Texas",
+    "city": "USA",
+    "phone": "+375299683815",
+    "email": "sam@email.com",
+    "systemData": {
+      "role": "admin",
+      "refreshJti": [],
+      "createdAt": 1756336450476,
+      "status": "active"
+    }
+  },
+  "29c0bba15a51": {
+    "id": "29c0bba15a51",
+    "name": "Adolf",
+    "lastname": "Hitler",
+    "sex": "Женский",
+    "birthday": "1991-09-09",
+    "password": "$2b$10$GK2jvp0Unb70Fn0xpvP.RO2vDzfcRNEoEDM2gFCE2IIwr.njghpYa",
+    "country": "Germany",
+    "city": "Berlin",
+    "phone": "+44517163392",
+    "email": "adolf@email.com",
+    "systemData": {
+      "role": "user",
+      "refreshJti": [
+        "4504a298-1bd1-4467-b343-ab4ecb4bef09",
+        "2abee30f-f161-42b9-ba40-fe0118f22060",
+        "61366f90-983c-4bc5-a692-bac7d03802f4",
+        "8f895dd0-6fe7-405c-b57e-2684b07a0021",
+        "c99208fc-7928-41eb-8123-3d8984375f67",
+        "0235817a-26bd-4e63-8a3d-719782b6acfc",
+        "ff2a0840-6b77-42e5-9e77-105956d8f560",
+        "24b6937e-6517-4dfa-ba4f-eed6a235c157",
+        "fe04ae78-0211-408c-adbc-0cdfe71f0d7d",
+        "9c93f4f2-0086-47c6-8560-f1296b593a7e",
+        "6207260c-841a-449d-8579-4e2f04c51680",
+        "e8235f78-3ba0-41af-8069-f0c093eedb56",
+        "6ba52f92-2bcf-435f-90d5-1ff4cae9bf88"
+      ],
+      "createdAt": 1756862337399,
+      "status": "active"
+    }
+  },
+  "fb603aa116de": {
+    "id": "fb603aa116de",
+    "name": "Роксана",
+    "lastname": "Есаянц",
+    "sex": "Женский",
+    "birthday": "1994-04-01",
+    "password": "$2b$10$MLBegn/xqRcGLDiUGWoJE.imujECMpvJN4e.VdUnT.8sZpV9kJx0u",
+    "country": "Беларусь",
+    "city": "ag. Barsuki",
+    "phone": "+80293363433",
+    "email": "Rocksana@email.com",
+    "systemData": {
+      "role": "user",
+      "refreshJti": [],
+      "createdAt": 1762139542874,
+      "status": "active"
+    }
+  }
+}

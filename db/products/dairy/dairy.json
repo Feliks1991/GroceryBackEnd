@@ -1,0 +1,422 @@
+[
+  {
+    "SKU": "541120",
+    "category": "dairy",
+    "promo": {
+      "discount": true,
+      "percentage": 30
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Молоко ПРОСТОКВАШИНО ультрапастеризованное 3.2%, 930 мл",
+    "price": {
+      "regular": 95,
+      "discountCard": 66.5
+    },
+    "brand": "Простоквашино",
+    "origin": "Россия",
+    "packing": {
+      "value": 930,
+      "unit": "мл"
+    },
+    "description": "Молоко Простоквашино с жирностью 3.2% производится из свежего коровьего молока. Подходит для питья, приготовления каш и других блюд."
+  },
+  {
+    "SKU": "441447",
+    "category": "dairy",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Масло сливочное ВАЛИО традиционное 82%, 180 г",
+    "price": {
+      "regular": 239.9,
+      "discountCard": 239.9
+    },
+    "brand": "Valio",
+    "origin": "Финляндия",
+    "packing": {
+      "value": 180,
+      "unit": "г"
+    },
+    "description": "Качественное сливочное масло от финского производителя. Обладает ярким сливочным вкусом, идеально для бутербродов и выпечки."
+  },
+  {
+    "SKU": "172319",
+    "category": "dairy",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Творог САВУШКИН 5%, 220 г",
+    "price": {
+      "regular": 98.5,
+      "discountCard": 78.8
+    },
+    "brand": "Савушкин",
+    "origin": "Беларусь",
+    "packing": {
+      "value": 220,
+      "unit": "г"
+    },
+    "description": "Нежный и вкусный творог с пониженной жирностью. Отличный вариант для завтрака или диетического питания."
+  },
+  {
+    "SKU": "808745",
+    "category": "dairy",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Йогурт ЧУДО клубника 2.5%, 290 г",
+    "price": {
+      "regular": 42,
+      "discountCard": 42
+    },
+    "brand": "Чудо",
+    "origin": "Россия",
+    "packing": {
+      "value": 290,
+      "unit": "г"
+    },
+    "description": "Фруктовый йогурт с насыщенным вкусом клубники. Удобен в употреблении, подходит как перекус в течение дня."
+  },
+  {
+    "SKU": "144003",
+    "category": "dairy",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Сыр ЛАМБЕР полутвёрдый, 200 г",
+    "price": {
+      "regular": 165,
+      "discountCard": 140.25
+    },
+    "brand": "Ламбер",
+    "origin": "Россия",
+    "packing": {
+      "value": 200,
+      "unit": "г"
+    },
+    "description": "Полутвёрдый сыр с насыщенным вкусом. Подходит для нарезки, сэндвичей и горячих блюд."
+  },
+  {
+    "SKU": "393192",
+    "category": "dairy",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Сметана ЭКОНИВА 20%, 315 г",
+    "price": {
+      "regular": 84.9,
+      "discountCard": 84.9
+    },
+    "brand": "ЭкоНива",
+    "origin": "Россия",
+    "packing": {
+      "value": 315,
+      "unit": "г"
+    },
+    "description": "Сметана с классической жирностью 20%. Идеальна для заправки салатов, супов и в качестве дополнения к гарнирам."
+  },
+  {
+    "SKU": "571243",
+    "category": "dairy",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Кефир МОЛОЧНЫЙ КРАЙ 2.5%, 900 мл",
+    "price": {
+      "regular": 68,
+      "discountCard": 61.2
+    },
+    "brand": "Молочный Край",
+    "origin": "Россия",
+    "packing": {
+      "value": 900,
+      "unit": "мл"
+    },
+    "description": "Кефир с жирностью 2.5%. Отличный выбор для утреннего завтрака или в качестве основы для соусов и маринадов."
+  },
+  {
+    "SKU": "878915",
+    "category": "dairy",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Пломбир ЧУДО 23%, 500 г",
+    "price": {
+      "regular": 180,
+      "discountCard": 180
+    },
+    "brand": "Чудо",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г"
+    },
+    "description": "Вкуснейший пломбир с жирностью 23%. Наслаждайтесь насыщенным вкусом и нежной текстурой."
+  },
+  {
+    "SKU": "203181",
+    "category": "dairy",
+    "promo": {
+      "discount": true,
+      "percentage": 25
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Йогурт АКТИВИЯ персик 2.7%, 450 г",
+    "price": {
+      "regular": 105,
+      "discountCard": 78.75
+    },
+    "brand": "Активия",
+    "origin": "Россия",
+    "packing": {
+      "value": 450,
+      "unit": "г"
+    },
+    "description": "Йогурт с нежным вкусом персика. Содержит активные культуры, полезен для пищеварения."
+  },
+  {
+    "SKU": "927304",
+    "category": "dairy",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Сыр РОКФОР 50%, 120 г",
+    "price": {
+      "regular": 499,
+      "discountCard": 449.1
+    },
+    "brand": "Рокфор",
+    "origin": "Франция",
+    "packing": {
+      "value": 120,
+      "unit": "г"
+    },
+    "description": "Классический французский сыр с плесенью, обладает насыщенным вкусом и ароматом. Отлично подходит к вину и сырам в сырной тарелке."
+  },
+  {
+    "SKU": "676759",
+    "category": "dairy",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Творог МОЛОЧНЫЙ КРАЙ 5%, 400 г",
+    "price": {
+      "regular": 112,
+      "discountCard": 112
+    },
+    "brand": "Молочный Край",
+    "origin": "Россия",
+    "packing": {
+      "value": 400,
+      "unit": "г"
+    },
+    "description": "Творог с жирностью 5%, идеально подходит для использования в десертах, выпечке и в качестве перекуса."
+  },
+  {
+    "SKU": "370101",
+    "category": "dairy",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Йогурт АКТИВИЯ клубника 2.7%, 500 г",
+    "price": {
+      "regular": 115,
+      "discountCard": 103.5
+    },
+    "brand": "Активия",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г"
+    },
+    "description": "Йогурт с клубничным вкусом, идеален для завтраков. Содержит пробиотики для поддержания здоровья кишечника."
+  },
+  {
+    "SKU": "421064",
+    "category": "dairy",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Масло СЛАВЯНСКОЕ крестьянское 82%, 200 г",
+    "price": {
+      "regular": 220,
+      "discountCard": 187
+    },
+    "brand": "Славянское",
+    "origin": "Россия",
+    "packing": {
+      "value": 200,
+      "unit": "г"
+    },
+    "description": "Крестьянское сливочное масло с жирностью 82%. Прекрасно подходит для приготовления хлеба, выпечки и на бутерброды."
+  },
+  {
+    "SKU": "963890",
+    "category": "dairy",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Творожные сырки ВОЛНА клубника, 4 шт по 40 г",
+    "price": {
+      "regular": 119,
+      "discountCard": 119
+    },
+    "brand": "Волна",
+    "origin": "Россия",
+    "packing": {
+      "value": 160,
+      "unit": "г"
+    },
+    "description": "Творожные сырки с клубничной начинкой, в упаковке 4 штуки по 40 г. Отличное сочетание вкуса и полезных свойств."
+  },
+  {
+    "SKU": "204949",
+    "category": "dairy",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Кефир ВОЛШЕБНЫЙ 2.5%, 1 л",
+    "price": {
+      "regular": 85,
+      "discountCard": 72.25
+    },
+    "brand": "Волшебный",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "мл"
+    },
+    "description": "Кефир с жирностью 2.5%. Прекрасен для утреннего питания или в составе коктейлей."
+  }
+]

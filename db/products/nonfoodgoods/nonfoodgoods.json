@@ -1,0 +1,422 @@
+[
+  {
+    "SKU": "398580",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Зубная щетка 'Colgate' средней жесткости",
+    "price": {
+      "regular": 150,
+      "discountCard": 135
+    },
+    "brand": "Colgate",
+    "origin": "Германия",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Зубная щетка с щетинками средней жесткости, идеально подходит для ежедневной гигиены."
+  },
+  {
+    "SKU": "820515",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Шампунь для волос 'Head & Shoulders' 400 мл",
+    "price": {
+      "regular": 350,
+      "discountCard": 350
+    },
+    "brand": "Head & Shoulders",
+    "origin": "США",
+    "packing": {
+      "value": 400,
+      "unit": "мл"
+    },
+    "description": "Шампунь против перхоти с эффектом увлажнения для сухих волос."
+  },
+  {
+    "SKU": "538255",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Порошок для стирки 'Ariel' 2.7 кг",
+    "price": {
+      "regular": 900,
+      "discountCard": 720
+    },
+    "brand": "Ariel",
+    "origin": "Германия",
+    "packing": {
+      "value": 2.7,
+      "unit": "кг"
+    },
+    "description": "Эффективный порошок для стирки с ярким эффектом чистоты, подходит для всех типов тканей."
+  },
+  {
+    "SKU": "943365",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Туалетная бумага 'Zewa' 12 рулонов",
+    "price": {
+      "regular": 250,
+      "discountCard": 250
+    },
+    "brand": "Zewa",
+    "origin": "Германия",
+    "packing": {
+      "value": 12,
+      "unit": "шт."
+    },
+    "description": "Мягкая и прочная туалетная бумага из 100% целлюлозы, не раздражает кожу."
+  },
+  {
+    "SKU": "251824",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Средство для мытья полов 'Mr. Muscle' 1 л",
+    "price": {
+      "regular": 350,
+      "discountCard": 297.5
+    },
+    "brand": "Mr. Muscle",
+    "origin": "США",
+    "packing": {
+      "value": 1,
+      "unit": "л."
+    },
+    "description": "Средство для чистки полов с антибактериальным эффектом, удобно для использования на всех типах полов."
+  },
+  {
+    "SKU": "422070",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Освежитель воздуха 'Air Wick' 250 мл",
+    "price": {
+      "regular": 500,
+      "discountCard": 500
+    },
+    "brand": "Air Wick",
+    "origin": "Франция",
+    "packing": {
+      "value": 250,
+      "unit": "мл"
+    },
+    "description": "Освежитель воздуха с приятным ароматом для любого помещения."
+  },
+  {
+    "SKU": "145401",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": true,
+      "percentage": 5
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Салфетки для уборки 'Mr. Clean' 20 шт",
+    "price": {
+      "regular": 200,
+      "discountCard": 190
+    },
+    "brand": "Mr. Clean",
+    "origin": "США",
+    "packing": {
+      "value": 20,
+      "unit": "шт."
+    },
+    "description": "Салфетки для быстрой и эффективной уборки. Подходят для большинства поверхностей."
+  },
+  {
+    "SKU": "512238",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Утюг 'Philips' 2200 Вт",
+    "price": {
+      "regular": 3500,
+      "discountCard": 3150
+    },
+    "brand": "Philips",
+    "origin": "Нидерланды",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Мощный утюг с паром, идеален для разглаживания складок на любых тканях."
+  },
+  {
+    "SKU": "612079",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Термос 'Thermo Flask' 1 л",
+    "price": {
+      "regular": 1200,
+      "discountCard": 1020
+    },
+    "brand": "Thermo Flask",
+    "origin": "Китай",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Термос с двойными стенками, сохраняющий тепло до 12 часов."
+  },
+  {
+    "SKU": "274610",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Солнечные очки 'Ray-Ban'",
+    "price": {
+      "regular": 4500,
+      "discountCard": 3600
+    },
+    "brand": "Ray-Ban",
+    "origin": "США",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Элегантные солнечные очки с защитой от ультрафиолетовых лучей."
+  },
+  {
+    "SKU": "944597",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Набор чемоданов 'Samsonite' 4 шт.",
+    "price": {
+      "regular": 12000,
+      "discountCard": 10800
+    },
+    "brand": "Samsonite",
+    "origin": "США",
+    "packing": {
+      "value": 1,
+      "unit": "набор"
+    },
+    "description": "Набор прочных чемоданов для путешествий с системой защиты от краж."
+  },
+  {
+    "SKU": "214383",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Рюкзак 'Herschel' 25 л",
+    "price": {
+      "regular": 4500,
+      "discountCard": 3825
+    },
+    "brand": "Herschel",
+    "origin": "Канада",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Рюкзак с удобными карманами и стильным дизайном, идеален для городской жизни."
+  },
+  {
+    "SKU": "783070",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Кофемашина 'DeLonghi' EC685",
+    "price": {
+      "regular": 25000,
+      "discountCard": 25000
+    },
+    "brand": "DeLonghi",
+    "origin": "Италия",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Компактная кофемашина с функцией капучино, подходит для домашнего использования."
+  },
+  {
+    "SKU": "365734",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Чехол для смартфона 'Spigen' для iPhone 12",
+    "price": {
+      "regular": 1000,
+      "discountCard": 900
+    },
+    "brand": "Spigen",
+    "origin": "Южная Корея",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Прочный чехол для защиты вашего смартфона от ударов и царапин."
+  },
+  {
+    "SKU": "812875",
+    "category": "nonfoodgoods",
+    "promo": {
+      "discount": true,
+      "percentage": 5
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Зимняя куртка 'The North Face' M",
+    "price": {
+      "regular": 15000,
+      "discountCard": 14250
+    },
+    "brand": "The North Face",
+    "origin": "США",
+    "packing": {
+      "value": 1,
+      "unit": "шт."
+    },
+    "description": "Теплая зимняя куртка с мембранной тканью и системой защиты от холода."
+  }
+]

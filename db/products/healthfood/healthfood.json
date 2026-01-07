@@ -1,0 +1,422 @@
+[
+  {
+    "SKU": "903615",
+    "category": "healthfood",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Протеиновый батончик 'PowerPro' 60 г",
+    "price": {
+      "regular": 100,
+      "discountCard": 90
+    },
+    "brand": "PowerPro",
+    "origin": "США",
+    "packing": {
+      "value": 60,
+      "unit": "г"
+    },
+    "description": "Протеиновый батончик с высоким содержанием белка, идеально подходит для активных людей."
+  },
+  {
+    "SKU": "594517",
+    "category": "healthfood",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Шпинат замороженный 'Солнечный Дар' 400 г",
+    "price": {
+      "regular": 120,
+      "discountCard": 120
+    },
+    "brand": "Солнечный Дар",
+    "origin": "Россия",
+    "packing": {
+      "value": 400,
+      "unit": "г"
+    },
+    "description": "Шпинат замороженный, богат витаминами, идеально подходит для супов и гарниров."
+  },
+  {
+    "SKU": "323148",
+    "category": "healthfood",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Миндальное масло 'Almond Joy' 250 г",
+    "price": {
+      "regular": 350,
+      "discountCard": 350
+    },
+    "brand": "Almond Joy",
+    "origin": "США",
+    "packing": {
+      "value": 250,
+      "unit": "г"
+    },
+    "description": "Миндальное масло с высоким содержанием полезных жиров и витаминов, идеальное для здорового питания."
+  },
+  {
+    "SKU": "949656",
+    "category": "healthfood",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Пшеничные зародыши 'Natur' 200 г",
+    "price": {
+      "regular": 220,
+      "discountCard": 187
+    },
+    "brand": "Natur",
+    "origin": "Германия",
+    "packing": {
+      "value": 200,
+      "unit": "г"
+    },
+    "description": "Пшеничные зародыши, источник клетчатки и витаминов, отличное добавление к йогурту и кашам."
+  },
+  {
+    "SKU": "387861",
+    "category": "healthfood",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Семена чиа 'SuperFood' 150 г",
+    "price": {
+      "regular": 250,
+      "discountCard": 200
+    },
+    "brand": "SuperFood",
+    "origin": "Чили",
+    "packing": {
+      "value": 150,
+      "unit": "г"
+    },
+    "description": "Семена чиа, богатые омега-3 и клетчаткой, подходят для смузи, йогуртов и выпечки."
+  },
+  {
+    "SKU": "180420",
+    "category": "healthfood",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Органический мед 'GoldenBee' 500 г",
+    "price": {
+      "regular": 450,
+      "discountCard": 450
+    },
+    "brand": "GoldenBee",
+    "origin": "Украина",
+    "packing": {
+      "value": 500,
+      "unit": "г"
+    },
+    "description": "Органический мед, натуральный и без добавок. Прекрасный источник витаминов и минералов."
+  },
+  {
+    "SKU": "147130",
+    "category": "healthfood",
+    "promo": {
+      "discount": true,
+      "percentage": 25
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Зеленый чай 'Green Leaf' 30 пакетов",
+    "price": {
+      "regular": 180,
+      "discountCard": 135
+    },
+    "brand": "Green Leaf",
+    "origin": "Япония",
+    "packing": {
+      "value": 30,
+      "unit": "пакетиков"
+    },
+    "description": "Зеленый чай с антиоксидантами, помогает поддерживать здоровье и бодрость в течение дня."
+  },
+  {
+    "SKU": "648126",
+    "category": "healthfood",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Киноа 'Super Grains' 300 г",
+    "price": {
+      "regular": 300,
+      "discountCard": 270
+    },
+    "brand": "Super Grains",
+    "origin": "Перу",
+    "packing": {
+      "value": 300,
+      "unit": "г"
+    },
+    "description": "Киноа – отличная альтернатива рису, содержит много белка и клетчатки. Отлично подходит для гарниров и салатов."
+  },
+  {
+    "SKU": "727665",
+    "category": "healthfood",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Спирулина в капсулах 'GreenBio' 100 капсул",
+    "price": {
+      "regular": 600,
+      "discountCard": 600
+    },
+    "brand": "GreenBio",
+    "origin": "Индия",
+    "packing": {
+      "value": 100,
+      "unit": "капсул"
+    },
+    "description": "Спирулина в капсулах – источник витаминов, минералов и антиоксидантов, укрепляет иммунитет."
+  },
+  {
+    "SKU": "817848",
+    "category": "healthfood",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Миндальное молоко 'Almond Dream' 1 л",
+    "price": {
+      "regular": 250,
+      "discountCard": 212.5
+    },
+    "brand": "Almond Dream",
+    "origin": "США",
+    "packing": {
+      "value": 1,
+      "unit": "л"
+    },
+    "description": "Миндальное молоко, без сахара, идеально подходит для веганов и людей с непереносимостью лактозы."
+  },
+  {
+    "SKU": "100351",
+    "category": "healthfood",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Семена чиа 'SuperSeed' 200 г",
+    "price": {
+      "regular": 350,
+      "discountCard": 280
+    },
+    "brand": "SuperSeed",
+    "origin": "Мексика",
+    "packing": {
+      "value": 200,
+      "unit": "г"
+    },
+    "description": "Семена чиа, богатые омега-3 жирными кислотами и клетчаткой, отличны для добавления в йогурты и коктейли."
+  },
+  {
+    "SKU": "634161",
+    "category": "healthfood",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Коричневый рис 'BioGrain' 500 г",
+    "price": {
+      "regular": 180,
+      "discountCard": 180
+    },
+    "brand": "BioGrain",
+    "origin": "Индия",
+    "packing": {
+      "value": 500,
+      "unit": "г"
+    },
+    "description": "Коричневый рис, идеален для приготовления гарниров и рисовых салатов, сохраняет все полезные вещества."
+  },
+  {
+    "SKU": "692466",
+    "category": "healthfood",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Миндальное масло 'NutriLife' 250 г",
+    "price": {
+      "regular": 550,
+      "discountCard": 467.5
+    },
+    "brand": "NutriLife",
+    "origin": "США",
+    "packing": {
+      "value": 250,
+      "unit": "г"
+    },
+    "description": "Миндалевое масло без добавок, идеально подходит для намазок, десертов и добавок к смузи."
+  },
+  {
+    "SKU": "895373",
+    "category": "healthfood",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Протеин растительный 'Vegan Protein' 500 г",
+    "price": {
+      "regular": 700,
+      "discountCard": 700
+    },
+    "brand": "Vegan Protein",
+    "origin": "США",
+    "packing": {
+      "value": 500,
+      "unit": "г"
+    },
+    "description": "Растительный протеин для веганов, помогает в восстановлении и поддержке мышечной массы."
+  },
+  {
+    "SKU": "484487",
+    "category": "healthfood",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Кокосовое масло 'PureCoco' 400 г",
+    "price": {
+      "regular": 400,
+      "discountCard": 400
+    },
+    "brand": "PureCoco",
+    "origin": "Филиппины",
+    "packing": {
+      "value": 400,
+      "unit": "г"
+    },
+    "description": "100% натуральное кокосовое масло, отличное для кулинарии и ухода за кожей."
+  }
+]

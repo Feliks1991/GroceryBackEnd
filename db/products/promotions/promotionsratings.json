@@ -1,0 +1,992 @@
+{
+  "100351": {
+    "average": 4.3,
+    "ratingLength": 6,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "103699": {
+    "average": 4.8,
+    "ratingLength": 7,
+    "rating5Length": 5,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "119622": {
+    "average": 4.1,
+    "ratingLength": 4,
+    "rating5Length": 2,
+    "rating4Length": 1,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "144003": {
+    "average": 4,
+    "ratingLength": 4,
+    "rating5Length": 1,
+    "rating4Length": 2,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "144014": {
+    "average": 4.6,
+    "ratingLength": 6,
+    "rating5Length": 4,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "145401": {
+    "average": 4.2,
+    "ratingLength": 6,
+    "rating5Length": 3,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "145607": {
+    "average": 4.3,
+    "ratingLength": 5,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "147130": {
+    "average": 4.4,
+    "ratingLength": 5,
+    "rating5Length": 2,
+    "rating4Length": 2,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "164270": {
+    "average": 4.5,
+    "ratingLength": 6,
+    "rating5Length": 4,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "172319": {
+    "average": 4,
+    "ratingLength": 2,
+    "rating5Length": 1,
+    "rating4Length": 0,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "183486": {
+    "average": 4.4,
+    "ratingLength": 6,
+    "rating5Length": 3,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "184404": {
+    "average": 4.3,
+    "ratingLength": 5,
+    "rating5Length": 2,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "203181": {
+    "average": 4.5,
+    "ratingLength": 4,
+    "rating5Length": 2,
+    "rating4Length": 1,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "204949": {
+    "average": 4.4,
+    "ratingLength": 5,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "214383": {
+    "average": 4.7,
+    "ratingLength": 12,
+    "rating5Length": 8,
+    "rating4Length": 4,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "239451": {
+    "average": 4.7,
+    "ratingLength": 6,
+    "rating5Length": 5,
+    "rating4Length": 1,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "239769": {
+    "average": 4.6,
+    "ratingLength": 6,
+    "rating5Length": 4,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "242619": {
+    "average": 4.8,
+    "ratingLength": 8,
+    "rating5Length": 6,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "247338": {
+    "average": 4.5,
+    "ratingLength": 7,
+    "rating5Length": 4,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "251824": {
+    "average": 4.4,
+    "ratingLength": 8,
+    "rating5Length": 5,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "257878": {
+    "average": 4.2,
+    "ratingLength": 7,
+    "rating5Length": 4,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "267499": {
+    "average": 4.5,
+    "ratingLength": 6,
+    "rating5Length": 4,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "269396": {
+    "average": 4.1,
+    "ratingLength": 5,
+    "rating5Length": 2,
+    "rating4Length": 2,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "274610": {
+    "average": 4.9,
+    "ratingLength": 10,
+    "rating5Length": 9,
+    "rating4Length": 1,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "296104": {
+    "average": 4.8,
+    "ratingLength": 25,
+    "rating5Length": 18,
+    "rating4Length": 7,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "299622": {
+    "average": 4.1,
+    "ratingLength": 5,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "339814": {
+    "average": 4.6,
+    "ratingLength": 8,
+    "rating5Length": 5,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "341575": {
+    "average": 4.6,
+    "ratingLength": 15,
+    "rating5Length": 10,
+    "rating4Length": 5,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "342544": {
+    "average": 4.3,
+    "ratingLength": 6,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "345924": {
+    "average": 4.2,
+    "ratingLength": 6,
+    "rating5Length": 3,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "365734": {
+    "average": 4.2,
+    "ratingLength": 7,
+    "rating5Length": 4,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "370101": {
+    "average": 4.2,
+    "ratingLength": 3,
+    "rating5Length": 1,
+    "rating4Length": 1,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "382541": {
+    "average": 4.6,
+    "ratingLength": 8,
+    "rating5Length": 5,
+    "rating4Length": 2,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "386241": {
+    "average": 4.7,
+    "ratingLength": 6,
+    "rating5Length": 4,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "387833": {
+    "average": 4.2,
+    "ratingLength": 7,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 1,
+    "rating2Length": 1,
+    "rating1Length": 0
+  },
+  "387861": {
+    "average": 4.2,
+    "ratingLength": 6,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "398580": {
+    "average": 4.6,
+    "ratingLength": 10,
+    "rating5Length": 6,
+    "rating4Length": 4,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "401017": {
+    "average": 4.7,
+    "ratingLength": 6,
+    "rating5Length": 5,
+    "rating4Length": 1,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "403250": {
+    "average": 4.3,
+    "ratingLength": 10,
+    "rating5Length": 6,
+    "rating4Length": 3,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "407754": {
+    "average": 4.6,
+    "ratingLength": 5,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "408285": {
+    "average": 4.3,
+    "ratingLength": 6,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "411392": {
+    "average": 4.6,
+    "ratingLength": 9,
+    "rating5Length": 6,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "413188": {
+    "average": 4.7,
+    "ratingLength": 9,
+    "rating5Length": 5,
+    "rating4Length": 4,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "421064": {
+    "average": 4.6,
+    "ratingLength": 5,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "437263": {
+    "average": 4.3,
+    "ratingLength": 6,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "446779": {
+    "average": 4.7,
+    "ratingLength": 10,
+    "rating5Length": 7,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "448747": {
+    "average": 4.6,
+    "ratingLength": 15,
+    "rating5Length": 10,
+    "rating4Length": 5,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "458479": {
+    "average": 4.7,
+    "ratingLength": 7,
+    "rating5Length": 5,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "463675": {
+    "average": 4.4,
+    "ratingLength": 5,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "465694": {
+    "average": 4.2,
+    "ratingLength": 7,
+    "rating5Length": 4,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "468407": {
+    "average": 4,
+    "ratingLength": 7,
+    "rating5Length": 3,
+    "rating4Length": 3,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "484947": {
+    "average": 4.7,
+    "ratingLength": 12,
+    "rating5Length": 8,
+    "rating4Length": 4,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "512238": {
+    "average": 4.6,
+    "ratingLength": 8,
+    "rating5Length": 5,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "516423": {
+    "average": 4.4,
+    "ratingLength": 8,
+    "rating5Length": 4,
+    "rating4Length": 3,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "538255": {
+    "average": 4.7,
+    "ratingLength": 5,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "541120": {
+    "average": 3.67,
+    "ratingLength": 3,
+    "rating5Length": 1,
+    "rating4Length": 1,
+    "rating3Length": 0,
+    "rating2Length": 1,
+    "rating1Length": 0
+  },
+  "543272": {
+    "average": 4.4,
+    "ratingLength": 7,
+    "rating5Length": 4,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "546990": {
+    "average": 4.3,
+    "ratingLength": 5,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "551763": {
+    "average": 4.6,
+    "ratingLength": 8,
+    "rating5Length": 5,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "565123": {
+    "average": 4.2,
+    "ratingLength": 4,
+    "rating5Length": 2,
+    "rating4Length": 1,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "571243": {
+    "average": 4.2,
+    "ratingLength": 3,
+    "rating5Length": 1,
+    "rating4Length": 1,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "574190": {
+    "average": 4.5,
+    "ratingLength": 7,
+    "rating5Length": 4,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "581791": {
+    "average": 4.8,
+    "ratingLength": 8,
+    "rating5Length": 6,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "594312": {
+    "average": 4.4,
+    "ratingLength": 6,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "596040": {
+    "average": 4.9,
+    "ratingLength": 9,
+    "rating5Length": 8,
+    "rating4Length": 1,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "596761": {
+    "average": 4.5,
+    "ratingLength": 5,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "598829": {
+    "average": 4.5,
+    "ratingLength": 7,
+    "rating5Length": 5,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "599710": {
+    "average": 4.2,
+    "ratingLength": 6,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "610402": {
+    "average": 4.3,
+    "ratingLength": 5,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "612079": {
+    "average": 4.4,
+    "ratingLength": 7,
+    "rating5Length": 4,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "613630": {
+    "average": 4.7,
+    "ratingLength": 10,
+    "rating5Length": 7,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "619625": {
+    "average": 4.3,
+    "ratingLength": 8,
+    "rating5Length": 5,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "622445": {
+    "average": 4.5,
+    "ratingLength": 6,
+    "rating5Length": 3,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "628071": {
+    "average": 4.4,
+    "ratingLength": 6,
+    "rating5Length": 4,
+    "rating4Length": 1,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "648126": {
+    "average": 4.7,
+    "ratingLength": 9,
+    "rating5Length": 6,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "653392": {
+    "average": 4.2,
+    "ratingLength": 6,
+    "rating5Length": 3,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "666810": {
+    "average": 4.9,
+    "ratingLength": 15,
+    "rating5Length": 12,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "672729": {
+    "average": 4.8,
+    "ratingLength": 6,
+    "rating5Length": 5,
+    "rating4Length": 1,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "675922": {
+    "average": 4.2,
+    "ratingLength": 7,
+    "rating5Length": 4,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "681624": {
+    "average": 4.2,
+    "ratingLength": 7,
+    "rating5Length": 3,
+    "rating4Length": 4,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "681680": {
+    "average": 4.5,
+    "ratingLength": 6,
+    "rating5Length": 4,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "692466": {
+    "average": 4.6,
+    "ratingLength": 10,
+    "rating5Length": 7,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "704884": {
+    "average": 4.7,
+    "ratingLength": 20,
+    "rating5Length": 14,
+    "rating4Length": 6,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "708344": {
+    "average": 4,
+    "ratingLength": 4,
+    "rating5Length": 2,
+    "rating4Length": 1,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "716749": {
+    "average": 4.2,
+    "ratingLength": 5,
+    "rating5Length": 2,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "724070": {
+    "average": 4.8,
+    "ratingLength": 6,
+    "rating5Length": 5,
+    "rating4Length": 1,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "736998": {
+    "average": 4.7,
+    "ratingLength": 8,
+    "rating5Length": 6,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "738847": {
+    "average": 4.5,
+    "ratingLength": 6,
+    "rating5Length": 4,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "760627": {
+    "average": 4.3,
+    "ratingLength": 6,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "762232": {
+    "average": 4.7,
+    "ratingLength": 9,
+    "rating5Length": 6,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "784000": {
+    "average": 4.5,
+    "ratingLength": 5,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "789780": {
+    "average": 4.2,
+    "ratingLength": 8,
+    "rating5Length": 3,
+    "rating4Length": 5,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "789972": {
+    "average": 4.6,
+    "ratingLength": 6,
+    "rating5Length": 4,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "796471": {
+    "average": 4.8,
+    "ratingLength": 8,
+    "rating5Length": 6,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "812875": {
+    "average": 4.6,
+    "ratingLength": 9,
+    "rating5Length": 6,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "815199": {
+    "average": 4.1,
+    "ratingLength": 9,
+    "rating5Length": 3,
+    "rating4Length": 4,
+    "rating3Length": 2,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "817848": {
+    "average": 4.1,
+    "ratingLength": 7,
+    "rating5Length": 3,
+    "rating4Length": 3,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "847450": {
+    "average": 4.4,
+    "ratingLength": 12,
+    "rating5Length": 9,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "867600": {
+    "average": 4.2,
+    "ratingLength": 8,
+    "rating5Length": 4,
+    "rating4Length": 3,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "875560": {
+    "average": 4.3,
+    "ratingLength": 8,
+    "rating5Length": 4,
+    "rating4Length": 3,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "878480": {
+    "average": 4.7,
+    "ratingLength": 9,
+    "rating5Length": 7,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "890727": {
+    "average": 4.1,
+    "ratingLength": 5,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "895961": {
+    "average": 4.4,
+    "ratingLength": 7,
+    "rating5Length": 4,
+    "rating4Length": 2,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "903615": {
+    "average": 4.6,
+    "ratingLength": 7,
+    "rating5Length": 4,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "921509": {
+    "average": 4,
+    "ratingLength": 6,
+    "rating5Length": 2,
+    "rating4Length": 3,
+    "rating3Length": 1,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "927304": {
+    "average": 4.33,
+    "ratingLength": 3,
+    "rating5Length": 1,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "932195": {
+    "average": 4.7,
+    "ratingLength": 7,
+    "rating5Length": 5,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "944597": {
+    "average": 4.3,
+    "ratingLength": 8,
+    "rating5Length": 5,
+    "rating4Length": 3,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "949656": {
+    "average": 4.7,
+    "ratingLength": 5,
+    "rating5Length": 3,
+    "rating4Length": 2,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  },
+  "958427": {
+    "average": 4.3,
+    "ratingLength": 10,
+    "rating5Length": 6,
+    "rating4Length": 4,
+    "rating3Length": 0,
+    "rating2Length": 0,
+    "rating1Length": 0
+  }
+}

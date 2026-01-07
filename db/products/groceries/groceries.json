@@ -1,0 +1,422 @@
+[
+  {
+    "SKU": "145607",
+    "category": "groceries",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Масло подсолнечное 'Маслёнка' 1 л",
+    "price": {
+      "regular": 120,
+      "discountCard": 108
+    },
+    "brand": "Маслёнка",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "мл"
+    },
+    "description": "Масло подсолнечное 'Маслёнка' идеально подходит для жарки и приготовления блюд."
+  },
+  {
+    "SKU": "166126",
+    "category": "groceries",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Чай черный 'Ahmad Tea' 25 пакетов",
+    "price": {
+      "regular": 200,
+      "discountCard": 200
+    },
+    "brand": "Ahmad Tea",
+    "origin": "Великобритания",
+    "packing": {
+      "value": 25,
+      "unit": "пакетов"
+    },
+    "description": "Чай черный Ahmad Tea с тонким ароматом, идеален для чаепития."
+  },
+  {
+    "SKU": "708344",
+    "category": "groceries",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Кофе молотый 'Jacobs' 250 г",
+    "price": {
+      "regular": 300,
+      "discountCard": 255
+    },
+    "brand": "Jacobs",
+    "origin": "Германия",
+    "packing": {
+      "value": 250,
+      "unit": "г"
+    },
+    "description": "Кофе молотый Jacobs с насыщенным вкусом, идеален для утреннего кофе."
+  },
+  {
+    "SKU": "227078",
+    "category": "groceries",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Арахисовая паста 'Jif' 350 г",
+    "price": {
+      "regular": 280,
+      "discountCard": 280
+    },
+    "brand": "Jif",
+    "origin": "США",
+    "packing": {
+      "value": 350,
+      "unit": "г"
+    },
+    "description": "Арахисовая паста Jif с насыщенным вкусом, идеально подходит для бутербродов и десертов."
+  },
+  {
+    "SKU": "716749",
+    "category": "groceries",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Мармелад 'Тархун' 500 г",
+    "price": {
+      "regular": 150,
+      "discountCard": 120
+    },
+    "brand": "Тархун",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г"
+    },
+    "description": "Мармелад 'Тархун' с натуральными фруктовыми ингредиентами и неповторимым вкусом."
+  },
+  {
+    "SKU": "119622",
+    "category": "groceries",
+    "promo": {
+      "discount": true,
+      "percentage": 30
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Мед липовый 'Золотая пчелка' 350 г",
+    "price": {
+      "regular": 250,
+      "discountCard": 175
+    },
+    "brand": "Золотая пчелка",
+    "origin": "Россия",
+    "packing": {
+      "value": 350,
+      "unit": "г"
+    },
+    "description": "Мед липовый с натуральным вкусом, идеально подходит для чая или как добавка к десертам."
+  },
+  {
+    "SKU": "543272",
+    "category": "groceries",
+    "promo": {
+      "discount": true,
+      "percentage": 5
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Сахар 'Русский стандарт' 1 кг",
+    "price": {
+      "regular": 60,
+      "discountCard": 57
+    },
+    "brand": "Русский стандарт",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г"
+    },
+    "description": "Высококачественный сахар, идеально подходящий для всех типов кулинарии и выпечки."
+  },
+  {
+    "SKU": "500179",
+    "category": "groceries",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Спагетти 'Barilla' 500 г",
+    "price": {
+      "regular": 130,
+      "discountCard": 130
+    },
+    "brand": "Barilla",
+    "origin": "Италия",
+    "packing": {
+      "value": 500,
+      "unit": "г"
+    },
+    "description": "Итальянские спагетти Barilla идеально подойдут для любых паст."
+  },
+  {
+    "SKU": "386241",
+    "category": "groceries",
+    "promo": {
+      "discount": true,
+      "percentage": 12
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Рис 'Краснодарский' 1 кг",
+    "price": {
+      "regular": 95,
+      "discountCard": 83.6
+    },
+    "brand": "Краснодарский",
+    "origin": "Россия",
+    "packing": {
+      "value": 1000,
+      "unit": "г"
+    },
+    "description": "Рис Краснодарский высокого качества, идеально подходит для плова и гарниров."
+  },
+  {
+    "SKU": "305761",
+    "category": "groceries",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Соль пищевая 'Морская' 500 г",
+    "price": {
+      "regular": 25,
+      "discountCard": 25
+    },
+    "brand": "Морская",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г"
+    },
+    "description": "Морская соль высшего качества для кулинарии и приготовления пищи."
+  },
+  {
+    "SKU": "944343",
+    "category": "groceries",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Геркулес 'Славяночка' 500 г",
+    "price": {
+      "regular": 45,
+      "discountCard": 45
+    },
+    "brand": "Славяночка",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г"
+    },
+    "description": "Геркулес Славяночка для завтраков и приготовления каш, полезный и вкусный."
+  },
+  {
+    "SKU": "546990",
+    "category": "groceries",
+    "promo": {
+      "discount": true,
+      "percentage": 8
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Хлеб 'Дарницкий' 500 г",
+    "price": {
+      "regular": 40,
+      "discountCard": 36.8
+    },
+    "brand": "Дарницкий",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г"
+    },
+    "description": "Хлеб Дарницкий, мягкий и ароматный, для бутербродов и гарниров."
+  },
+  {
+    "SKU": "581791",
+    "category": "groceries",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Каша овсяная 'Мистраль' 400 г",
+    "price": {
+      "regular": 75,
+      "discountCard": 67.5
+    },
+    "brand": "Мистраль",
+    "origin": "Россия",
+    "packing": {
+      "value": 400,
+      "unit": "г"
+    },
+    "description": "Овсяная каша Мистраль, подходит для быстрого приготовления, полезна для здоровья."
+  },
+  {
+    "SKU": "284386",
+    "category": "groceries",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Фасоль 'Белый' 800 г",
+    "price": {
+      "regular": 45,
+      "discountCard": 45
+    },
+    "brand": "Белый",
+    "origin": "Россия",
+    "packing": {
+      "value": 800,
+      "unit": "г"
+    },
+    "description": "Фасоль белая, идеальна для приготовления супов и гарниров."
+  },
+  {
+    "SKU": "890727",
+    "category": "groceries",
+    "promo": {
+      "discount": true,
+      "percentage": 7
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Паста 'De Cecco' 500 г",
+    "price": {
+      "regular": 120,
+      "discountCard": 111.6
+    },
+    "brand": "De Cecco",
+    "origin": "Италия",
+    "packing": {
+      "value": 500,
+      "unit": "г"
+    },
+    "description": "Паста De Cecco из качественной муки, идеально подходит для всех видов паст и соусов."
+  }
+]

@@ -1,0 +1,66 @@
+{
+  "153444": {
+    "name": "Хавчик для домашнего пиздюка",
+    "source": "test.json"
+  },
+  "277073": {
+    "name": "Клетка для попугаев 'Savic' 60x40x40 см",
+    "source": "test.json"
+  },
+  "433678": {
+    "name": "Домик для кошек 'Trixie' с туннелем",
+    "source": "test.json"
+  },
+  "458206": {
+    "name": "Шампунь для кошек 'Sanosan' 250 мл",
+    "source": "test.json"
+  },
+  "480514": {
+    "name": "Колесо для хомяков 'Savic' 20 см",
+    "source": "test.json"
+  },
+  "491748": {
+    "name": "Клетка для кроликов 'Ferplast' 80x50x50 см",
+    "source": "test.json"
+  },
+  "568407": {
+    "name": "Корм для собак 'Royal Canin' 1.5 кг",
+    "source": "test.json"
+  },
+  "577701": {
+    "name": "Поводок для собак 'PetSafe' 1.5 м",
+    "source": "test.json"
+  },
+  "597758": {
+    "name": "Ошейник для собак 'Ferplast' размер L",
+    "source": "test.json"
+  },
+  "599895": {
+    "name": "Игрушка для собак 'PetSafe' мячик с пищалкой",
+    "source": "test.json"
+  },
+  "773563": {
+    "name": "Кровать для собак 'PetFusion' размер M",
+    "source": "test.json"
+  },
+  "779272": {
+    "name": "Миски для собак 'Trixie' 2 шт",
+    "source": "test.json"
+  },
+  "802330": {
+    "name": "Наполнитель для кошек 'Cat's Best' 5 л",
+    "source": "test.json"
+  },
+  "855752": {
+    "name": "Кошачье дерево 'Trixie' для игр и сна",
+    "source": "test.json"
+  },
+  "949235": {
+    "name": "Корм для кошек 'Whiskas' 2 кг",
+    "source": "test.json"
+  },
+  "964203": {
+    "name": "Шампунь для собак 'Nature's Miracle' 500 мл",
+    "source": "test.json"
+  }
+}

@@ -1,0 +1,422 @@
+[
+  {
+    "SKU": "463675",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Чай черный 'Цейлонский' 25 пакетов",
+    "price": {
+      "regular": 120,
+      "discountCard": 102
+    },
+    "brand": "Lipton",
+    "origin": "Шри-Ланка",
+    "packing": {
+      "value": 25,
+      "unit": "пакетов"
+    },
+    "description": "Цейлонский чай с ярким насыщенным вкусом, идеально подходит для утреннего чаепития."
+  },
+  {
+    "SKU": "428898",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Кофе молотый 'Nescafe Classic' 200 г",
+    "price": {
+      "regular": 320,
+      "discountCard": 320
+    },
+    "brand": "Nescafe",
+    "origin": "Швейцария",
+    "packing": {
+      "value": 200,
+      "unit": "г"
+    },
+    "description": "Молотый кофе Nescafe Classic с насыщенным вкусом, подходит для утреннего бодрящего напитка."
+  },
+  {
+    "SKU": "109514",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Чай зеленый 'Японский' 20 пакетов",
+    "price": {
+      "regular": 240,
+      "discountCard": 240
+    },
+    "brand": "Taylors of Harrogate",
+    "origin": "Япония",
+    "packing": {
+      "value": 20,
+      "unit": "пакетов"
+    },
+    "description": "Зеленый чай с лёгким вкусом, идеально подходит для расслабления в любое время дня."
+  },
+  {
+    "SKU": "932195",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Кофе растворимый 'Jacobs Monarch' 95 г",
+    "price": {
+      "regular": 280,
+      "discountCard": 252
+    },
+    "brand": "Jacobs",
+    "origin": "Германия",
+    "packing": {
+      "value": 95,
+      "unit": "г"
+    },
+    "description": "Растворимый кофе с насыщенным и мягким вкусом, подходит для любого времени дня."
+  },
+  {
+    "SKU": "174745",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Чай черный 'English Breakfast' 30 пакетов",
+    "price": {
+      "regular": 280,
+      "discountCard": 280
+    },
+    "brand": "Twinings",
+    "origin": "Великобритания",
+    "packing": {
+      "value": 30,
+      "unit": "пакетов"
+    },
+    "description": "Традиционный английский завтрак с крепким и насыщенным вкусом, идеален для утреннего чаепития."
+  },
+  {
+    "SKU": "610402",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Кофе растворимый 'Tchibo Gold' 100 г",
+    "price": {
+      "regular": 320,
+      "discountCard": 288
+    },
+    "brand": "Tchibo",
+    "origin": "Германия",
+    "packing": {
+      "value": 100,
+      "unit": "г"
+    },
+    "description": "Растворимый кофе с богатым вкусом и ароматом, который будет хорош для любого времени суток."
+  },
+  {
+    "SKU": "439582",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Чай зеленый 'Сенча' 50 г",
+    "price": {
+      "regular": 350,
+      "discountCard": 350
+    },
+    "brand": "Greenfield",
+    "origin": "Япония",
+    "packing": {
+      "value": 50,
+      "unit": "г"
+    },
+    "description": "Изысканный японский зеленый чай Сенча с легким травяным вкусом и свежим ароматом."
+  },
+  {
+    "SKU": "516423",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Кофе молотый 'Maxwell House' 250 г",
+    "price": {
+      "regular": 400,
+      "discountCard": 340
+    },
+    "brand": "Maxwell House",
+    "origin": "США",
+    "packing": {
+      "value": 250,
+      "unit": "г"
+    },
+    "description": "Молотый кофе с богатым и насыщенным вкусом для утренней бодрости."
+  },
+  {
+    "SKU": "843986",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Чай черный 'Earl Grey' 20 пакетов",
+    "price": {
+      "regular": 350,
+      "discountCard": 350
+    },
+    "brand": "Tetley",
+    "origin": "Великобритания",
+    "packing": {
+      "value": 20,
+      "unit": "пакетов"
+    },
+    "description": "Ароматный черный чай с добавлением бергамота, идеален для вечернего чаепития."
+  },
+  {
+    "SKU": "738847",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Кофе растворимый 'Carte Noire' 100 г",
+    "price": {
+      "regular": 380,
+      "discountCard": 342
+    },
+    "brand": "Carte Noire",
+    "origin": "Франция",
+    "packing": {
+      "value": 100,
+      "unit": "г"
+    },
+    "description": "Растворимый кофе с утонченным вкусом и ароматом, подходит для утренней чашки кофе."
+  },
+  {
+    "SKU": "915935",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Чай зеленый 'Чайный сад' 100 г",
+    "price": {
+      "regular": 280,
+      "discountCard": 280
+    },
+    "brand": "Чайный сад",
+    "origin": "Россия",
+    "packing": {
+      "value": 100,
+      "unit": "г"
+    },
+    "description": "Чай зеленый с мягким вкусом, хорош для повседневного чаепития."
+  },
+  {
+    "SKU": "966853",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Чай черный 'Lipton' 100 пакетов",
+    "price": {
+      "regular": 250,
+      "discountCard": 250
+    },
+    "brand": "Lipton",
+    "origin": "Россия",
+    "packing": {
+      "value": 100,
+      "unit": "пакетов"
+    },
+    "description": "Популярный черный чай с насыщенным вкусом, который идеально подходит для традиционного чаепития."
+  },
+  {
+    "SKU": "598829",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Чай черный 'Ahmad Tea' 25 пакетов",
+    "price": {
+      "regular": 220,
+      "discountCard": 176
+    },
+    "brand": "Ahmad Tea",
+    "origin": "Великобритания",
+    "packing": {
+      "value": 25,
+      "unit": "пакетов"
+    },
+    "description": "Чай черный Ahmad Tea с тонким ароматом и насыщенным вкусом, классика британского чаепития."
+  },
+  {
+    "SKU": "280913",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Чай зеленый 'Twinings' 20 пакетов",
+    "price": {
+      "regular": 300,
+      "discountCard": 300
+    },
+    "brand": "Twinings",
+    "origin": "Великобритания",
+    "packing": {
+      "value": 20,
+      "unit": "пакетов"
+    },
+    "description": "Известный английский бренд предлагает высококачественный зеленый чай с приятным свежим вкусом."
+  },
+  {
+    "SKU": "875560",
+    "category": "tea_coffee",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Чай черный 'Dilmah' 50 пакетов",
+    "price": {
+      "regular": 350,
+      "discountCard": 315
+    },
+    "brand": "Dilmah",
+    "origin": "Шри-Ланка",
+    "packing": {
+      "value": 50,
+      "unit": "пакетов"
+    },
+    "description": "Эксклюзивный черный чай с насыщенным вкусом, обладающий природным ароматом."
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "SKU": "613630",
+    "category": "babiesfood",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Каша овсяная для младенцев 'Nestle' 250 г",
+    "price": {
+      "regular": 120,
+      "discountCard": 96
+    },
+    "brand": "Nestle",
+    "origin": "Россия",
+    "packing": {
+      "value": 250,
+      "unit": "г."
+    },
+    "description": "Овсяная каша без добавления сахара, идеальна для первых прикормов.",
+    "rating": {
+      "average": 4.7,
+      "ratingLength": 10,
+      "rating5Length": 7,
+      "rating4Length": 3,
+      "rating3Length": 0,
+      "rating2Length": 0,
+      "rating1Length": 0
+    },
+    "comments": [
+      {
+        "id": "843693-1",
+        "date": "2024-03-01T00:00:00Z",
+        "comment": "Моя малышка очень любит эту кашу!"
+      },
+      {
+        "id": "843693-2",
+        "date": "2024-03-05T00:00:00Z",
+        "comment": "Прекрасное качество, ребёнок ест с удовольствием."
+      },
+      {
+        "id": "843693-3",
+        "date": "2024-03-10T00:00:00Z",
+        "comment": "Отлично подошла для первого прикорма."
+      }
+    ]
+  }
+]

@@ -1,0 +1,422 @@
+[
+  {
+    "SKU": "619625",
+    "category": "bread",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Хлеб 'Бородинский' 600 г",
+    "price": {
+      "regular": 50,
+      "discountCard": 45
+    },
+    "brand": "КампоМол",
+    "origin": "Россия",
+    "packing": {
+      "value": 600,
+      "unit": "г."
+    },
+    "description": "Традиционный бородинский хлеб с ароматом ржи и тмина, с характерным кисловатым вкусом."
+  },
+  {
+    "SKU": "375759",
+    "category": "bread",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Хлеб 'Семейный' 500 г",
+    "price": {
+      "regular": 40,
+      "discountCard": 40
+    },
+    "brand": "Дарина",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г."
+    },
+    "description": "Легкий и мягкий хлеб с нежной корочкой, идеально подходит для сэндвичей и тостов."
+  },
+  {
+    "SKU": "239451",
+    "category": "bread",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Ржаной хлеб с семечками 700 г",
+    "price": {
+      "regular": 70,
+      "discountCard": 59.5
+    },
+    "brand": "Черемушки",
+    "origin": "Россия",
+    "packing": {
+      "value": 700,
+      "unit": "г."
+    },
+    "description": "Ржаной хлеб с добавлением семечек подсолнуха и тыквы, обладает насыщенным вкусом и ароматом."
+  },
+  {
+    "SKU": "681624",
+    "category": "bread",
+    "promo": {
+      "discount": true,
+      "percentage": 5
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Хлеб 'Батон пшеничный' 400 г",
+    "price": {
+      "regular": 30,
+      "discountCard": 28.5
+    },
+    "brand": "АгроХлеб",
+    "origin": "Россия",
+    "packing": {
+      "value": 400,
+      "unit": "г."
+    },
+    "description": "Классический пшеничный батон с мягкой текстурой и сладковатым вкусом."
+  },
+  {
+    "SKU": "578155",
+    "category": "bread",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Лепешка с сыром 200 г",
+    "price": {
+      "regular": 50,
+      "discountCard": 50
+    },
+    "brand": "Сырный мир",
+    "origin": "Россия",
+    "packing": {
+      "value": 200,
+      "unit": "г."
+    },
+    "description": "Тонкая лепешка с плавленым сыром, которая идеально подходит для перекуса или как дополнение к супам и салатам."
+  },
+  {
+    "SKU": "629078",
+    "category": "bread",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Хлеб 'Узбекский' 800 г",
+    "price": {
+      "regular": 65,
+      "discountCard": 65
+    },
+    "brand": "ЧудоПек",
+    "origin": "Узбекистан",
+    "packing": {
+      "value": 800,
+      "unit": "г."
+    },
+    "description": "Свежий узбекский хлеб с ароматной корочкой, характерным вкусом и легким дымным запахом."
+  },
+  {
+    "SKU": "417356",
+    "category": "bread",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Фокачча с оливками 500 г",
+    "price": {
+      "regular": 95,
+      "discountCard": 95
+    },
+    "brand": "Тестовик",
+    "origin": "Италия",
+    "packing": {
+      "value": 500,
+      "unit": "г."
+    },
+    "description": "Итальянская фокачча с оливками и розмарином, ароматная и мягкая, идеально подходит как гарнир или закуска."
+  },
+  {
+    "SKU": "411392",
+    "category": "bread",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Хлеб 'Петришка' 500 г",
+    "price": {
+      "regular": 50,
+      "discountCard": 40
+    },
+    "brand": "Пекарь",
+    "origin": "Россия",
+    "packing": {
+      "value": 500,
+      "unit": "г."
+    },
+    "description": "Петришка — хлеб с мягкой корочкой и ароматом свежевыпеченного, подходит для сэндвичей и тостов."
+  },
+  {
+    "SKU": "958427",
+    "category": "bread",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Батон 'Традиционный' 350 г",
+    "price": {
+      "regular": 35,
+      "discountCard": 29.75
+    },
+    "brand": "ХлебоПек",
+    "origin": "Россия",
+    "packing": {
+      "value": 350,
+      "unit": "г."
+    },
+    "description": "Классический пшеничный батон, мягкий и с небольшой сладостью, идеален для ежедневных бутербродов."
+  },
+  {
+    "SKU": "453800",
+    "category": "bread",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Ржаной хлеб 600 г",
+    "price": {
+      "regular": 50,
+      "discountCard": 50
+    },
+    "brand": "Вкусный хлеб",
+    "origin": "Россия",
+    "packing": {
+      "value": 600,
+      "unit": "г."
+    },
+    "description": "Ржаной хлеб с насыщенным вкусом, идеально сочетается с мясными и рыбными блюдами."
+  },
+  {
+    "SKU": "214861",
+    "category": "bread",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Пшеничный хлеб с медом 450 г",
+    "price": {
+      "regular": 60,
+      "discountCard": 60
+    },
+    "brand": "Сладкий хлеб",
+    "origin": "Россия",
+    "packing": {
+      "value": 450,
+      "unit": "г."
+    },
+    "description": "Пшеничный хлеб с медом, отличающийся сладким вкусом и ароматом, идеально подойдет для завтраков."
+  },
+  {
+    "SKU": "267499",
+    "category": "bread",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Хлеб с отрубями 700 г",
+    "price": {
+      "regular": 85,
+      "discountCard": 68
+    },
+    "brand": "Здоровый хлеб",
+    "origin": "Россия",
+    "packing": {
+      "value": 700,
+      "unit": "г."
+    },
+    "description": "Хлеб с добавлением отрубей, содержащий полезные волокна, придает ощущение насыщенности."
+  },
+  {
+    "SKU": "789780",
+    "category": "bread",
+    "promo": {
+      "discount": true,
+      "percentage": 25
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Батон с семенами льна 350 г",
+    "price": {
+      "regular": 45,
+      "discountCard": 33.75
+    },
+    "brand": "Зерновой мир",
+    "origin": "Россия",
+    "packing": {
+      "value": 350,
+      "unit": "г."
+    },
+    "description": "Семена льна придают хлебу особую питательность и вкус."
+  },
+  {
+    "SKU": "680369",
+    "category": "bread",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Хлеб с тыквенными семечками 450 г",
+    "price": {
+      "regular": 55,
+      "discountCard": 55
+    },
+    "brand": "Семечко",
+    "origin": "Россия",
+    "packing": {
+      "value": 450,
+      "unit": "г."
+    },
+    "description": "Легкий и вкусный хлеб с тыквенными семечками, хорош для завтраков или как добавка к супам."
+  },
+  {
+    "SKU": "574190",
+    "category": "bread",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Батон с кунжутом 400 г",
+    "price": {
+      "regular": 45,
+      "discountCard": 40.5
+    },
+    "brand": "Пекарня Рушан",
+    "origin": "Россия",
+    "packing": {
+      "value": 400,
+      "unit": "г."
+    },
+    "description": "Батон с кунжутом, ароматный и с хрустящей корочкой."
+  }
+]

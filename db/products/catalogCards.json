@@ -1,0 +1,8 @@
+[
+  {
+    "title": "Хлеб",
+    "image": "http://localhost:3000/products/bread/1753227660660.png",
+    "size": "S",
+    "categoryPath": "/catalog/bread"
+  }
+]

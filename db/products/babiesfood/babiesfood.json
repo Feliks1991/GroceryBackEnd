@@ -1,0 +1,422 @@
+[
+  {
+    "SKU": "613630",
+    "category": "babiesfood",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Каша овсяная для младенцев 'Nestle' 250 г",
+    "price": {
+      "regular": 120,
+      "discountCard": 96
+    },
+    "brand": "Nestle",
+    "origin": "Россия",
+    "packing": {
+      "value": 250,
+      "unit": "г."
+    },
+    "description": "Овсяная каша без добавления сахара, идеальна для первых прикормов."
+  },
+  {
+    "SKU": "731569",
+    "category": "babiesfood",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Сок яблочный для младенцев 'Hipp' 200 мл",
+    "price": {
+      "regular": 75,
+      "discountCard": 75
+    },
+    "brand": "Hipp",
+    "origin": "Германия",
+    "packing": {
+      "value": 200,
+      "unit": "мл"
+    },
+    "description": "Сок из органических яблок, подходит для детей с 4 месяцев."
+  },
+  {
+    "SKU": "387833",
+    "category": "babiesfood",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Пюре овощное для младенцев 'Gerber' 190 г",
+    "price": {
+      "regular": 95,
+      "discountCard": 85.5
+    },
+    "brand": "Gerber",
+    "origin": "США",
+    "packing": {
+      "value": 190,
+      "unit": "г."
+    },
+    "description": "Пюре из органических овощей, подходит для детей с 6 месяцев."
+  },
+  {
+    "SKU": "437143",
+    "category": "babiesfood",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Смесь молочная для младенцев 'Similac' 400 г",
+    "price": {
+      "regular": 650,
+      "discountCard": 650
+    },
+    "brand": "Similac",
+    "origin": "США",
+    "packing": {
+      "value": 400,
+      "unit": "г."
+    },
+    "description": "Молочная смесь для детей с рождения, обогащённая витаминами и минералами."
+  },
+  {
+    "SKU": "921509",
+    "category": "babiesfood",
+    "promo": {
+      "discount": true,
+      "percentage": 5
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Печенье детское 'Hipp' с яблоком 150 г",
+    "price": {
+      "regular": 120,
+      "discountCard": 114
+    },
+    "brand": "Hipp",
+    "origin": "Германия",
+    "packing": {
+      "value": 150,
+      "unit": "г."
+    },
+    "description": "Детское печенье с натуральным яблочным вкусом, идеально для детей старше 6 месяцев."
+  },
+  {
+    "SKU": "895961",
+    "category": "babiesfood",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Молоко для младенцев 'Nutrilon' 800 г",
+    "price": {
+      "regular": 990,
+      "discountCard": 891
+    },
+    "brand": "Nutrilon",
+    "origin": "Нидерланды",
+    "packing": {
+      "value": 800,
+      "unit": "г."
+    },
+    "description": "Молочная смесь для детей с рождения, поддерживает иммунитет и развитие."
+  },
+  {
+    "SKU": "232190",
+    "category": "babiesfood",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Пюре фруктовое для младенцев 'Bebivita' 200 г",
+    "price": {
+      "regular": 95,
+      "discountCard": 95
+    },
+    "brand": "Bebivita",
+    "origin": "Германия",
+    "packing": {
+      "value": 200,
+      "unit": "г."
+    },
+    "description": "Фруктовое пюре без добавления сахара и консервантов, подходит с 4 месяцев."
+  },
+  {
+    "SKU": "760627",
+    "category": "babiesfood",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Печенье детское с бананом 'FrutoNyan' 150 г",
+    "price": {
+      "regular": 120,
+      "discountCard": 102
+    },
+    "brand": "FrutoNyan",
+    "origin": "Россия",
+    "packing": {
+      "value": 150,
+      "unit": "г."
+    },
+    "description": "Печенье с банановым вкусом для детей от 6 месяцев."
+  },
+  {
+    "SKU": "351311",
+    "category": "babiesfood",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Пюре яблочное 'HappyBaby' 200 г",
+    "price": {
+      "regular": 90,
+      "discountCard": 90
+    },
+    "brand": "HappyBaby",
+    "origin": "Германия",
+    "packing": {
+      "value": 200,
+      "unit": "г."
+    },
+    "description": "Яблочное пюре для детей с 4 месяцев, без добавления сахара."
+  },
+  {
+    "SKU": "666810",
+    "category": "babiesfood",
+    "promo": {
+      "discount": true,
+      "percentage": 20
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Пюре фруктовое с манго 'Gerber' 190 г",
+    "price": {
+      "regular": 110,
+      "discountCard": 88
+    },
+    "brand": "Gerber",
+    "origin": "США",
+    "packing": {
+      "value": 190,
+      "unit": "г."
+    },
+    "description": "Пюре с манго и яблоком для детей с 6 месяцев."
+  },
+  {
+    "SKU": "656012",
+    "category": "babiesfood",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Каша рисовая для младенцев 'Nestle' 250 г",
+    "price": {
+      "regular": 200,
+      "discountCard": 200
+    },
+    "brand": "Nestle",
+    "origin": "Швейцария",
+    "packing": {
+      "value": 250,
+      "unit": "г."
+    },
+    "description": "Рисовая каша для детей с 4 месяцев, без сахара, гипоаллергенная."
+  },
+  {
+    "SKU": "247338",
+    "category": "babiesfood",
+    "promo": {
+      "discount": true,
+      "percentage": 15
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Пюре яблоко-банан 'FrutoNyan' 150 г",
+    "price": {
+      "regular": 80,
+      "discountCard": 68
+    },
+    "brand": "FrutoNyan",
+    "origin": "Россия",
+    "packing": {
+      "value": 150,
+      "unit": "г."
+    },
+    "description": "Пюре яблоко-банан без сахара, идеально подходит для детей с 6 месяцев."
+  },
+  {
+    "SKU": "354920",
+    "category": "babiesfood",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Каша гречневая 'Gerber' 220 г",
+    "price": {
+      "regular": 130,
+      "discountCard": 130
+    },
+    "brand": "Gerber",
+    "origin": "США",
+    "packing": {
+      "value": 220,
+      "unit": "г."
+    },
+    "description": "Гречневая каша для детей с 4 месяцев, без глютена."
+  },
+  {
+    "SKU": "594312",
+    "category": "babiesfood",
+    "promo": {
+      "discount": true,
+      "percentage": 10
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Каша овсяная для младенцев 'Nestle' 250 г",
+    "price": {
+      "regular": 180,
+      "discountCard": 162
+    },
+    "brand": "Nestle",
+    "origin": "Швейцария",
+    "packing": {
+      "value": 250,
+      "unit": "г."
+    },
+    "description": "Овсяная каша для детей с 4 месяцев, гипоаллергенная, без сахара."
+  },
+  {
+    "SKU": "894067",
+    "category": "babiesfood",
+    "promo": {
+      "discount": false,
+      "percentage": 0
+    },
+    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "imgs": [
+      "http://localhost:5000/placeholders/2.webp",
+      "http://localhost:5000/placeholders/3.webp",
+      "http://localhost:5000/placeholders/4.webp",
+      "http://localhost:5000/placeholders/5.webp",
+      "http://localhost:5000/placeholders/6.webp"
+    ],
+    "name": "Печенье детское с бананом 'Bebivita' 180 г",
+    "price": {
+      "regular": 150,
+      "discountCard": 150
+    },
+    "brand": "Bebivita",
+    "origin": "Германия",
+    "packing": {
+      "value": 180,
+      "unit": "г."
+    },
+    "description": "Печенье с банановым вкусом для детей от 6 месяцев."
+  }
+]
