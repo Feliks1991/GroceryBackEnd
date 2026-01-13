@@ -26,7 +26,7 @@ const emailToID = (email) => {
 const setRefreshCookie = (res, token) => {
   res.cookie("refreshToken", token, {
     httpOnly: true,
-    secure: false, //заменить в проде на true
+    secure: true, //заменить в проде на true
     sameSite: "lax",
     path: "/auth",
     maxAge: 1000 * 60 * 60 * 24 * 15,

@@ -67,19 +67,9 @@
     "systemData": {
       "role": "user",
       "refreshJti": [
-        "4504a298-1bd1-4467-b343-ab4ecb4bef09",
-        "2abee30f-f161-42b9-ba40-fe0118f22060",
-        "61366f90-983c-4bc5-a692-bac7d03802f4",
-        "8f895dd0-6fe7-405c-b57e-2684b07a0021",
-        "c99208fc-7928-41eb-8123-3d8984375f67",
-        "0235817a-26bd-4e63-8a3d-719782b6acfc",
-        "ff2a0840-6b77-42e5-9e77-105956d8f560",
-        "24b6937e-6517-4dfa-ba4f-eed6a235c157",
-        "fe04ae78-0211-408c-adbc-0cdfe71f0d7d",
-        "9c93f4f2-0086-47c6-8560-f1296b593a7e",
-        "6207260c-841a-449d-8579-4e2f04c51680",
-        "e8235f78-3ba0-41af-8069-f0c093eedb56",
-        "6ba52f92-2bcf-435f-90d5-1ff4cae9bf88"
+        "d69a0413-eceb-452e-a92f-1e6b3c4f0ad1",
+        "41c423a3-6657-4f03-9bf5-ab5e47ba0781",
+        "611a3d22-9d96-48e7-8fc0-88c9db4defa5"
       ],
       "createdAt": 1756862337399,
       "status": "active"
