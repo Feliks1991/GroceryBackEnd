@@ -19,13 +19,14 @@ export const promotionFilter = async () => {
         promoratings[element.SKU] = element.rating;
         promocomments[element.SKU] = element.comments;
         element.SKU = String(element.SKU);
-        element.TitleImg = "http://localhost:5000/placeholders/1.webp";
+        element.TitleImg =
+          "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp";
         element.imgs = [
-          "http://localhost:5000/placeholders/2.webp",
-          "http://localhost:5000/placeholders/3.webp",
-          "http://localhost:5000/placeholders/4.webp",
-          "http://localhost:5000/placeholders/5.webp",
-          "http://localhost:5000/placeholders/6.webp",
+          "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+          "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+          "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+          "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+          "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp",
         ];
         delete element.rating;
         delete element.comments;

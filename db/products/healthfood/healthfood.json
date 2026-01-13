@@ -6,13 +6,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Протеиновый батончик 'PowerPro' 60 г",
     "price": {
@@ -34,13 +34,13 @@
       "discount": false,
       "percentage": 0
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Шпинат замороженный 'Солнечный Дар' 400 г",
     "price": {
@@ -62,13 +62,13 @@
       "discount": false,
       "percentage": 0
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Миндальное масло 'Almond Joy' 250 г",
     "price": {
@@ -90,13 +90,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Пшеничные зародыши 'Natur' 200 г",
     "price": {
@@ -118,13 +118,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Семена чиа 'SuperFood' 150 г",
     "price": {
@@ -146,13 +146,13 @@
       "discount": false,
       "percentage": 0
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Органический мед 'GoldenBee' 500 г",
     "price": {
@@ -174,13 +174,13 @@
       "discount": true,
       "percentage": 25
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Зеленый чай 'Green Leaf' 30 пакетов",
     "price": {
@@ -202,13 +202,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Киноа 'Super Grains' 300 г",
     "price": {
@@ -230,13 +230,13 @@
       "discount": false,
       "percentage": 0
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Спирулина в капсулах 'GreenBio' 100 капсул",
     "price": {
@@ -258,13 +258,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Миндальное молоко 'Almond Dream' 1 л",
     "price": {
@@ -286,13 +286,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Семена чиа 'SuperSeed' 200 г",
     "price": {
@@ -314,13 +314,13 @@
       "discount": false,
       "percentage": 0
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Коричневый рис 'BioGrain' 500 г",
     "price": {
@@ -342,13 +342,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Миндальное масло 'NutriLife' 250 г",
     "price": {
@@ -370,13 +370,13 @@
       "discount": false,
       "percentage": 0
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Протеин растительный 'Vegan Protein' 500 г",
     "price": {
@@ -398,13 +398,13 @@
       "discount": false,
       "percentage": 0
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Кокосовое масло 'PureCoco' 400 г",
     "price": {

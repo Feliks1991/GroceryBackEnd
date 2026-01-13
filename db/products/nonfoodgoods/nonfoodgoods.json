@@ -6,13 +6,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Зубная щетка 'Colgate' средней жесткости",
     "price": {
@@ -34,13 +34,13 @@
       "discount": false,
       "percentage": 0
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Шампунь для волос 'Head & Shoulders' 400 мл",
     "price": {
@@ -62,13 +62,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Порошок для стирки 'Ariel' 2.7 кг",
     "price": {
@@ -90,13 +90,13 @@
       "discount": false,
       "percentage": 0
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Туалетная бумага 'Zewa' 12 рулонов",
     "price": {
@@ -118,13 +118,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Средство для мытья полов 'Mr. Muscle' 1 л",
     "price": {
@@ -146,13 +146,13 @@
       "discount": false,
       "percentage": 0
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Освежитель воздуха 'Air Wick' 250 мл",
     "price": {
@@ -174,13 +174,13 @@
       "discount": true,
       "percentage": 5
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Салфетки для уборки 'Mr. Clean' 20 шт",
     "price": {
@@ -202,13 +202,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Утюг 'Philips' 2200 Вт",
     "price": {
@@ -230,13 +230,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Термос 'Thermo Flask' 1 л",
     "price": {
@@ -258,13 +258,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Солнечные очки 'Ray-Ban'",
     "price": {
@@ -286,13 +286,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Набор чемоданов 'Samsonite' 4 шт.",
     "price": {
@@ -314,13 +314,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Рюкзак 'Herschel' 25 л",
     "price": {
@@ -342,13 +342,13 @@
       "discount": false,
       "percentage": 0
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Кофемашина 'DeLonghi' EC685",
     "price": {
@@ -370,13 +370,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Чехол для смартфона 'Spigen' для iPhone 12",
     "price": {
@@ -398,13 +398,13 @@
       "discount": true,
       "percentage": 5
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Зимняя куртка 'The North Face' M",
     "price": {

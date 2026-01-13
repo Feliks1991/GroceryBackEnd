@@ -6,13 +6,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Каша овсяная для младенцев 'Nestle' 250 г",
     "price": {
@@ -34,13 +34,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Пюре овощное для младенцев 'Gerber' 190 г",
     "price": {
@@ -62,13 +62,13 @@
       "discount": true,
       "percentage": 5
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Печенье детское 'Hipp' с яблоком 150 г",
     "price": {
@@ -90,13 +90,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Молоко для младенцев 'Nutrilon' 800 г",
     "price": {
@@ -118,13 +118,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Печенье детское с бананом 'FrutoNyan' 150 г",
     "price": {
@@ -146,13 +146,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Пюре фруктовое с манго 'Gerber' 190 г",
     "price": {
@@ -174,13 +174,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Пюре яблоко-банан 'FrutoNyan' 150 г",
     "price": {
@@ -202,13 +202,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Каша овсяная для младенцев 'Nestle' 250 г",
     "price": {
@@ -230,13 +230,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Хлеб 'Бородинский' 600 г",
     "price": {
@@ -258,13 +258,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Ржаной хлеб с семечками 700 г",
     "price": {
@@ -286,13 +286,13 @@
       "discount": true,
       "percentage": 5
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Хлеб 'Батон пшеничный' 400 г",
     "price": {
@@ -314,13 +314,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Хлеб 'Петришка' 500 г",
     "price": {
@@ -342,13 +342,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Батон 'Традиционный' 350 г",
     "price": {
@@ -370,13 +370,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Хлеб с отрубями 700 г",
     "price": {
@@ -398,13 +398,13 @@
       "discount": true,
       "percentage": 25
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Батон с семенами льна 350 г",
     "price": {
@@ -426,13 +426,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Батон с кунжутом 400 г",
     "price": {
@@ -454,13 +454,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Шоколад 'Аленка' молочный, 100 г",
     "price": {
@@ -482,13 +482,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Конфеты 'Мишка косолапый', 200 г",
     "price": {
@@ -510,13 +510,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Шоколад 'Нестле' темный, 90 г",
     "price": {
@@ -538,13 +538,13 @@
       "discount": true,
       "percentage": 5
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Карамель 'Рыжик', 300 г",
     "price": {
@@ -566,13 +566,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Пирожные 'Картал', 400 г",
     "price": {
@@ -594,13 +594,13 @@
       "discount": true,
       "percentage": 25
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Конфеты 'Рафаэлло' 300 г",
     "price": {
@@ -622,13 +622,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Печенье 'Юбилейное' 400 г",
     "price": {
@@ -650,13 +650,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Конфеты 'Трюфельные' 250 г",
     "price": {
@@ -678,13 +678,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Шоколад 'Бабаевский' темный, 90 г",
     "price": {
@@ -706,13 +706,13 @@
       "discount": true,
       "percentage": 30
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Молоко ПРОСТОКВАШИНО ультрапастеризованное 3.2%, 930 мл",
     "price": {
@@ -734,13 +734,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Творог САВУШКИН 5%, 220 г",
     "price": {
@@ -762,13 +762,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Сыр ЛАМБЕР полутвёрдый, 200 г",
     "price": {
@@ -790,13 +790,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Кефир МОЛОЧНЫЙ КРАЙ 2.5%, 900 мл",
     "price": {
@@ -818,13 +818,13 @@
       "discount": true,
       "percentage": 25
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Йогурт АКТИВИЯ персик 2.7%, 450 г",
     "price": {
@@ -846,13 +846,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Сыр РОКФОР 50%, 120 г",
     "price": {
@@ -874,13 +874,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Йогурт АКТИВИЯ клубника 2.7%, 500 г",
     "price": {
@@ -902,13 +902,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Масло СЛАВЯНСКОЕ крестьянское 82%, 200 г",
     "price": {
@@ -930,13 +930,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Кефир ВОЛШЕБНЫЙ 2.5%, 1 л",
     "price": {
@@ -958,13 +958,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Газированная вода 1.5 л",
     "price": {
@@ -986,13 +986,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Лимонад апельсиновый 1 л",
     "price": {
@@ -1014,13 +1014,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Молочный коктейль ванильный 500 мл",
     "price": {
@@ -1042,13 +1042,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Сок ананасовый 'Tropico' 1 л",
     "price": {
@@ -1070,13 +1070,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Сок гранатовый 0.5 л",
     "price": {
@@ -1098,13 +1098,13 @@
       "discount": true,
       "percentage": 25
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Минеральная вода Боржоми 1 л",
     "price": {
@@ -1126,13 +1126,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Квас русский 1 л",
     "price": {
@@ -1154,13 +1154,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Брокколи замороженные 400 г",
     "price": {
@@ -1182,13 +1182,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Замороженный шпинат 300 г",
     "price": {
@@ -1210,13 +1210,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Замороженный зелёный горошек 450 г",
     "price": {
@@ -1238,13 +1238,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Замороженные ягоды 'BerryMix' 500 г",
     "price": {
@@ -1266,13 +1266,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Замороженные ягоды 'BerryMix' 500 г",
     "price": {
@@ -1294,13 +1294,13 @@
       "discount": true,
       "percentage": 12
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Замороженные клубника и малина 400 г",
     "price": {
@@ -1322,13 +1322,13 @@
       "discount": true,
       "percentage": 5
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Замороженные картофельные драники 600 г",
     "price": {
@@ -1350,13 +1350,13 @@
       "discount": true,
       "percentage": 8
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Замороженные креветки 300 г",
     "price": {
@@ -1378,13 +1378,13 @@
       "discount": true,
       "percentage": 7
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Замороженные крылья куриные 800 г",
     "price": {
@@ -1406,13 +1406,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Масло подсолнечное 'Маслёнка' 1 л",
     "price": {
@@ -1434,13 +1434,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Кофе молотый 'Jacobs' 250 г",
     "price": {
@@ -1462,13 +1462,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Мармелад 'Тархун' 500 г",
     "price": {
@@ -1490,13 +1490,13 @@
       "discount": true,
       "percentage": 30
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Мед липовый 'Золотая пчелка' 350 г",
     "price": {
@@ -1518,13 +1518,13 @@
       "discount": true,
       "percentage": 5
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Сахар 'Русский стандарт' 1 кг",
     "price": {
@@ -1546,13 +1546,13 @@
       "discount": true,
       "percentage": 12
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Рис 'Краснодарский' 1 кг",
     "price": {
@@ -1574,13 +1574,13 @@
       "discount": true,
       "percentage": 8
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Хлеб 'Дарницкий' 500 г",
     "price": {
@@ -1602,13 +1602,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Каша овсяная 'Мистраль' 400 г",
     "price": {
@@ -1630,13 +1630,13 @@
       "discount": true,
       "percentage": 7
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Паста 'De Cecco' 500 г",
     "price": {
@@ -1658,13 +1658,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Протеиновый батончик 'PowerPro' 60 г",
     "price": {
@@ -1686,13 +1686,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Пшеничные зародыши 'Natur' 200 г",
     "price": {
@@ -1714,13 +1714,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Семена чиа 'SuperFood' 150 г",
     "price": {
@@ -1742,13 +1742,13 @@
       "discount": true,
       "percentage": 25
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Зеленый чай 'Green Leaf' 30 пакетов",
     "price": {
@@ -1770,13 +1770,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Киноа 'Super Grains' 300 г",
     "price": {
@@ -1798,13 +1798,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Миндальное молоко 'Almond Dream' 1 л",
     "price": {
@@ -1826,13 +1826,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Семена чиа 'SuperSeed' 200 г",
     "price": {
@@ -1854,13 +1854,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Миндальное масло 'NutriLife' 250 г",
     "price": {
@@ -1882,13 +1882,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Куриные бедра, 1 кг",
     "price": {
@@ -1910,13 +1910,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Свинина, 1 кг",
     "price": {
@@ -1938,13 +1938,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Утка, 1 кг",
     "price": {
@@ -1966,13 +1966,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Котлеты говяжьи, 1 кг",
     "price": {
@@ -1994,13 +1994,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Колбаса варёная, 1 кг",
     "price": {
@@ -2022,13 +2022,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Пельмени с говядиной, 800 г",
     "price": {
@@ -2050,13 +2050,13 @@
       "discount": true,
       "percentage": 25
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Говяжий стейк, 500 г",
     "price": {
@@ -2078,13 +2078,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Куриные крылышки, 1 кг",
     "price": {
@@ -2106,13 +2106,13 @@
       "discount": true,
       "percentage": 30
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Бекон, 400 г",
     "price": {
@@ -2134,13 +2134,13 @@
       "discount": true,
       "percentage": 25
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Говяжьи ребра, 1 кг",
     "price": {
@@ -2162,13 +2162,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Зубная щетка 'Colgate' средней жесткости",
     "price": {
@@ -2190,13 +2190,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Порошок для стирки 'Ariel' 2.7 кг",
     "price": {
@@ -2218,13 +2218,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Средство для мытья полов 'Mr. Muscle' 1 л",
     "price": {
@@ -2246,13 +2246,13 @@
       "discount": true,
       "percentage": 5
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Салфетки для уборки 'Mr. Clean' 20 шт",
     "price": {
@@ -2274,13 +2274,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Утюг 'Philips' 2200 Вт",
     "price": {
@@ -2302,13 +2302,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Термос 'Thermo Flask' 1 л",
     "price": {
@@ -2330,13 +2330,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Солнечные очки 'Ray-Ban'",
     "price": {
@@ -2358,13 +2358,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Набор чемоданов 'Samsonite' 4 шт.",
     "price": {
@@ -2386,13 +2386,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Рюкзак 'Herschel' 25 л",
     "price": {
@@ -2414,13 +2414,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Чехол для смартфона 'Spigen' для iPhone 12",
     "price": {
@@ -2442,13 +2442,13 @@
       "discount": true,
       "percentage": 5
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Зимняя куртка 'The North Face' M",
     "price": {
@@ -2470,13 +2470,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Чай черный 'Цейлонский' 25 пакетов",
     "price": {
@@ -2498,13 +2498,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Кофе растворимый 'Jacobs Monarch' 95 г",
     "price": {
@@ -2526,13 +2526,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Кофе растворимый 'Tchibo Gold' 100 г",
     "price": {
@@ -2554,13 +2554,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Кофе молотый 'Maxwell House' 250 г",
     "price": {
@@ -2582,13 +2582,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Кофе растворимый 'Carte Noire' 100 г",
     "price": {
@@ -2610,13 +2610,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Чай черный 'Ahmad Tea' 25 пакетов",
     "price": {
@@ -2638,13 +2638,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Чай черный 'Dilmah' 50 пакетов",
     "price": {
@@ -2666,13 +2666,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Картофель свежий 1 кг",
     "price": {
@@ -2694,13 +2694,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Петрушка свежая пучок",
     "price": {
@@ -2722,13 +2722,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Цветная капуста свежая 500 г",
     "price": {
@@ -2750,13 +2750,13 @@
       "discount": true,
       "percentage": 5
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Перец болгарский 500 г",
     "price": {
@@ -2778,13 +2778,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Томаты черри 300 г",
     "price": {
@@ -2806,13 +2806,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Кабачки свежие 500 г",
     "price": {
@@ -2834,13 +2834,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Чеснок 200 г",
     "price": {
@@ -2862,13 +2862,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Корм для собак 'Royal Canin' 1.5 кг",
     "price": {
@@ -2890,13 +2890,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Игрушка для собак 'PetSafe' мячик с пищалкой",
     "price": {
@@ -2918,13 +2918,13 @@
       "discount": true,
       "percentage": 25
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Шампунь для собак 'Nature's Miracle' 500 мл",
     "price": {
@@ -2946,13 +2946,13 @@
       "discount": true,
       "percentage": 5
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Домик для кошек 'Trixie' с туннелем",
     "price": {
@@ -2974,13 +2974,13 @@
       "discount": true,
       "percentage": 20
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Миски для собак 'Trixie' 2 шт",
     "price": {
@@ -3002,13 +3002,13 @@
       "discount": true,
       "percentage": 30
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Шампунь для кошек 'Sanosan' 250 мл",
     "price": {
@@ -3030,13 +3030,13 @@
       "discount": true,
       "percentage": 15
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Клетка для кроликов 'Ferplast' 80x50x50 см",
     "price": {
@@ -3058,13 +3058,13 @@
       "discount": true,
       "percentage": 10
     },
-    "TitleImg": "http://localhost:5000/placeholders/1.webp",
+    "TitleImg": "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/1.webp",
     "imgs": [
-      "http://localhost:5000/placeholders/2.webp",
-      "http://localhost:5000/placeholders/3.webp",
-      "http://localhost:5000/placeholders/4.webp",
-      "http://localhost:5000/placeholders/5.webp",
-      "http://localhost:5000/placeholders/6.webp"
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/2.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/3.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/4.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/5.webp",
+      "https://kdrlfubgkiaqradtfsws.supabase.co/storage/v1/object/public/placeholders/6.webp"
     ],
     "name": "Ошейник для собак 'Ferplast' размер L",
     "price": {
