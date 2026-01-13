@@ -27,7 +27,7 @@ const setRefreshCookie = (res, token) => {
   res.cookie("refreshToken", token, {
     httpOnly: true,
     secure: true, //заменить в проде на true
-    sameSite: "lax",
+    sameSite: "none",
     path: "/auth",
     maxAge: 1000 * 60 * 60 * 24 * 15,
   });
